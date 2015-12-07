@@ -2,7 +2,7 @@
 Title: ToUser
 */
 
-The touser variable just prints the first parameter given to a command.
+The touser variable just prints the first argument given to a command.
 
 ## Usage
 
@@ -16,7 +16,7 @@ would result in
 
 > nightdev
 
-if the first parameter after the command was nightdev
+if the first argument after the command was nightdev
 
 ## Examples
 

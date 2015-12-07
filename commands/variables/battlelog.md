@@ -42,10 +42,10 @@ would result in
 
 ## Examples
 
-### Adding a command to show chatters what server you're playing on
+#### Adding a command to show chatters what server you're playing on
 
 > !commands add !battlelogstatus $(battlelog status `username`)
 
-### Adding a command to allow users in chat to lookup their own stats
+#### Adding a command to allow users in chat to lookup their own stats
 
 > !commands add !battlelogstats $(battlelog stats $(query))

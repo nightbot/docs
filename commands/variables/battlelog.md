@@ -2,7 +2,7 @@
 Title: Battlelog
 */
 
-You can utilize the Battlelog variable to create commands that import stats or status information from EA's Battlelog. This is useful for sharing the server URL of the current Battlefield server you're playing in as well as letting your viewers see your player stats in-game.
+You can utilize the Battlelog variable to create commands that import stats or status information from [EA's Battlelog](http://battlelog.battlefield.com/). This is useful for sharing the server URL of the current Battlefield server you're playing in as well as letting your viewers see your player stats in-game.
 
 ## Usage
 
@@ -14,7 +14,7 @@ The Battlelog variable has two actions that you can perform: stats and status.
 
 `platform` is the platform the stats are being looked up for. Values can be `pc`, `ps3`, `ps4`, `xbox360`, and `xboxone`
 
-`game` is the game the stats are being looked up for. Values cal be `bf3`, `bf4`, `bfh`, `mohw`
+`game` is the game the stats are being looked up for. Values can be `bf3`, `bf4`, `bfh`, and `mohw`
 
 `username` is the username being looked up for the platform being looked up.
 

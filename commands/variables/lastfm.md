@@ -26,9 +26,9 @@ would result in
 
 `formatted string` is a string with the following mustache-tagged parameters:
 
-* artist - The artist of the most recent scrobbled track
-* title - The title of the most recent scrobbled track
-* url - A link to the most recent scrobbled track on Last.fm
+* *artist* - The artist of the most recent scrobbled track
+* *title* - The title of the most recent scrobbled track
+* *url* - A link to the most recent scrobbled track on Last.fm
 
 #### Example Usage
 

@@ -10,11 +10,11 @@ Rainwave is a gaming radio network that plays raw game soundtracks, remixes, and
 
 `station` is the station being looked up on Rainwave. It can be any of the following:
 
-* `all` - All
-* `game` - Game
-* `chiptune` - Chiptune
-* `ocremix` - OC Remix
-* `covers` - Covers
+* *all* - All
+* *game* - Game
+* *chiptune* - Chiptune
+* *ocremix* - OC Remix
+* *covers* - Covers
 
 #### Example for Normal Usage
 
@@ -30,17 +30,17 @@ would result in
 
 `station` is the station being looked up on Rainwave. It can be any of the following:
 
-* `all` - All
-* `game` - Game
-* `chiptune` - Chiptune
-* `ocremix` - OC Remix
-* `covers` - Covers
+* *all* - All
+* *game* - Game
+* *chiptune* - Chiptune
+* *ocremix* - OC Remix
+* *covers* - Covers
 
 `formatted string` is a string with the following mustache-tagged parameters:
 
-* artist - The artist of the most recent scrobbled track
-* title - The title of the most recent scrobbled track
-* url - A link to the most recent scrobbled track on Last.fm
+* *artist* - The artist of the current playing song
+* *title* - The title of the current playing song
+* *url* - A link to the source of the current playing song
 
 #### Example Usage
 

@@ -24,7 +24,7 @@ would result in
 
 `timezone` is the timezone to be converted to (timezone list at bottom of page)
 
-`formatted time` is a time format to print. We use moment.js to compute time, so you can use their (formatting guide)[http://momentjs.com/docs/#/displaying/format/] to create a format you'd like to use.
+`formatted time` is a time format to print. We use moment.js to compute time, so you can use their [formatting guide](http://momentjs.com/docs/#/displaying/format/) to create a format you'd like to use.
 
 #### Example Usage
 

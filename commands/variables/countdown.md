@@ -40,8 +40,8 @@ will result with a response in this format
 
 #### Adding a command to show chatters when your stream starts daily
 
-> !commands add !starting $(countdown 5:00:00 PM EST)
+> !commands add !starting The stream is starting in $(countdown 5:00:00 PM EST)
 
 #### Adding a command to show chatters when your special Christmas stream begins
 
-> !commands add !christmas $(countdown Dec 25 2015 12:00:00 AM EST)
+> !commands add !christmas Christmas Countdown: $(countdown Dec 25 2015 12:00:00 AM EST)

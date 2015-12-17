@@ -50,8 +50,14 @@ When !testing is called, the command will now return "new testing message"
 
 ## Advanced Usage
 
+### Userlevels and Cooldowns
+
 When adding and editing commands, the user level required to execute a command as well as the command's cool down length can be modified. You just need to apply the parameters as shown below.
 
 > !commands add `!command_name` -ul=`userlevel` -cd=`cooldown` `command response`
 
 Replace `!command_name` and `command response` as normally, and then replace `userlevel` with a valid userlevel from below. Replace `cooldown` with the minimum number of seconds you want between command uses.
+
+### Variables
+
+Variables can be utilized within command responses. For a list of variables and examples of their use, check out the [Variables](https://docs.nightbot.tv/commands/variables) page.

@@ -70,6 +70,6 @@ Use the pencil button to edit existing command. It will bring up a form similar 
 
 Use the trash can button to remove a command.
 
-### Editing Custom Commands in Chat
+### Managing Custom Commands in Chat
 
 It is also possible to manage commands within chat. Check out the [!commands](https://docs.nightbot.tv/commands/commands) default command documentation for instructions on doing that.

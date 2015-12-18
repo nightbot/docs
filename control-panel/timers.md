@@ -1,6 +1,6 @@
 /*
-Title: Using Timers
-Sort: 1
+Title: Timers
+Sort: 3
 */
 
 Nightbot Timers have the ability to send messages on specific intervals. They are frequently used for social media links an general chat notifications.

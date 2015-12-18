@@ -1,6 +1,6 @@
 /*
 Title: Variables
-Sort: 1
+Sort: 2
 */
 
 * [Arguments](https://docs.nightbot.tv/commands/variables/arguments)

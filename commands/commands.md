@@ -58,6 +58,14 @@ When adding and editing commands, the user level required to execute a command a
 
 Replace `!command_name` and `command response` as normally, and then replace `userlevel` with a valid userlevel from below. Replace `cooldown` with the minimum number of seconds you want between command uses.
 
+`UserLevel` values:
+
+* owner - Channel Owner
+* moderator - Channel Moderator
+* regular - Nightbot Regular (users added to the regulars list within the control panel)
+* subscriber - Paid Channel Subscriber
+* everyone - Normal User
+
 ### Variables
 
 Variables can be utilized within command responses. For a list of variables and examples of their use, check out the [Variables](https://docs.nightbot.tv/commands/variables) page.

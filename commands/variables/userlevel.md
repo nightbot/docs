@@ -20,7 +20,6 @@ if the current chat was nightdev's and nightdev called the command
 
 #### Available UserLevel Values
 
-* admin - Nightbot Administrator
 * owner - Channel Owner
 * moderator - Channel Moderator
 * regular - Nightbot Regular (users added to the regulars list within the control panel)

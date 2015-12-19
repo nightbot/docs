@@ -2,7 +2,7 @@
 Title: Count
 */
 
-The channel variable prints how many times a command has been used.
+The count variable prints how many times a command has been used.
 
 ## Usage
 

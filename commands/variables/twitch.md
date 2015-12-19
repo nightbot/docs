@@ -12,11 +12,11 @@ You can utilize the Twitch variable to list profile information for Twitch accou
 
 #### Example for Normal Usage
 
-> $(twitch goldglove)
+> $(twitch night)
 
 would result in
 
-> GoldGlove is currently live playing Super Mega Baseball at 720p, 60 fps with 7,780 viewers since Mon Dec 07 2015 22:10:56 GMT-0500 (EST) (4 hours, 3 minutes, 50 seconds) - http://www.twitch.tv/goldglove
+> Night is currently live playing Super Mario Kart at 720p, 60 fps with 64 viewers since Mon Dec 07 2015 22:10:56 GMT-0500 (EST) (4 hours, 3 minutes, 50 seconds) - http://www.twitch.tv/night
 
 ### Advanced Usage
 
@@ -44,11 +44,11 @@ would result in
 
 #### Example Usage
 
-> $(twitch goldglove "{{displayName}} has {{followers}} followers")
+> $(twitch night "{{displayName}} has {{followers}} followers")
 
 would result in
 
-> GoldGlove has 1,037,856 followers
+> Night has 14,359 followers
 
 ## Examples
 

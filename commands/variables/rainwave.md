@@ -2,13 +2,15 @@
 Title: Rainwave
 */
 
-Rainwave is a gaming radio network that plays raw game soundtracks, remixes, and more. You can utilize the Rainwave variable to list the now playing song on any of the Rainwave stations.
+Rainwave is a gaming radio network that plays game soundtracks, remixes, and more. You can use the Rainwave variable to display the now playing song on any of the Rainwave stations.
 
 ### Normal Usage
 
 > $(rainwave `station`)
 
-`station` is the station being looked up on Rainwave. It can be any of the following:
+`station` is the station being looked up on Rainwave
+
+The station can be any of the following:
 
 * *all* - All
 * *game* - Game
@@ -28,13 +30,7 @@ would result in
 
 > $(rainwave `station` "`formatted string`")
 
-`station` is the station being looked up on Rainwave. It can be any of the following:
-
-* *all* - All
-* *game* - Game
-* *chiptune* - Chiptune
-* *ocremix* - OC Remix
-* *covers* - Covers
+`station` is the station being looked up on Rainwave (same as above)
 
 `formatted string` is a string with the following mustache-tagged parameters:
 

@@ -11,7 +11,7 @@ Nightbot Regulars adds another userlevel to the chat. Regulars can be granted ex
 
 > !regulars add `username`
 
-`username` is the name of a user you wish to add as a regular.
+`username` is the name of a user you wish to add as a regular
 
 ### Example
 
@@ -23,7 +23,7 @@ Nightbot Regulars adds another userlevel to the chat. Regulars can be granted ex
 
 > !regulars delete `username`
 
-`username` is the name of a user you wish to remove as a regular.
+`username` is the name of a user you wish to remove as a regular
 
 ### Example
 

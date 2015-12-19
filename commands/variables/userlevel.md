@@ -2,7 +2,7 @@
 Title: UserLevel
 */
 
-The userlevel variable just prints the current command caller's userlevel. It's useful when used within a UrlFetch variable.
+The userlevel variable prints the userlevel of the user calling the command. It's useful when used within a UrlFetch variable.
 
 ## Usage
 
@@ -18,10 +18,10 @@ would result in
 
 if the current chat was nightdev's and nightdev called the command
 
-#### Available UserLevel Values
+#### UserLevel Values
 
-* owner - Channel Owner
-* moderator - Channel Moderator
-* regular - Nightbot Regular (users added to the regulars list within the control panel)
-* subscriber - Paid Channel Subscriber
-* everyone - Normal User
+* **owner** - Channel Owner
+* **moderator** - Channel Moderator
+* **regular** - Nightbot Regular (users in the [regulars](https://docs.nightbot.tv/control-panel/regulars) list)
+* **subscriber** - Paid Channel Subscriber
+* **everyone** - Normal User *(default)*

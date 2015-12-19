@@ -2,13 +2,13 @@
 Title: Steam
 */
 
-You can utilize the Steam variable to list profile information for Steam accounts.
+You can use the Steam variable to display various information about a specific Steam profile.
 
 ### Normal Usage
 
 > $(steam `username`)
 
-`username` is the Steam community ID being looked up.
+`username` is the Steam community ID being looked up
 
 #### Example for Normal Usage
 
@@ -22,7 +22,7 @@ would result in
 
 > $(steam `username` "`formatted string`")
 
-`username` is the Steam community ID being looked up.
+`username` is the Steam community ID being looked up
 
 `formatted string` is a string with the following mustache-tagged parameters:
 

@@ -11,15 +11,17 @@ The !commands command allows users to get a link to your custom commands page an
 
 > !commands add `!command_name` `command response`
 
-`!command_name` is the name of command you wish to use. Commands are usually prefixed with an exclamation mark.
+`!command_name` is the name of command you wish to use. Commands are usually prefixed with an exclamation mark
 
-`command response` is the message you want Nightbot to reply with when the command is called.
+`command response` is the message you want Nightbot to reply with when the command is called
 
 ### Example
 
 > !commands add !testing this is a test message
 
-When !testing is called, the command will return "this is a test message"
+When !testing is called, the command will return
+
+> this is a test message
 
 ## Editing Commands
 
@@ -27,15 +29,17 @@ When !testing is called, the command will return "this is a test message"
 
 > !commands edit `!command_name` `command response`
 
-`!command_name` is the name of command you wish to edit.
+`!command_name` is the name of command you wish to edit
 
-`command response` is the message you want Nightbot to reply with when the command is called.
+`command response` is the message you want Nightbot to reply with when the command is called
 
 ### Example
 
 > !commands edit !testing new testing message
 
-When !testing is called, the command will now return "new testing message"
+When !testing is called, the command will now return
+
+> new testing message
 
 ## Deleting Commands
 
@@ -43,7 +47,7 @@ When !testing is called, the command will now return "new testing message"
 
 > !commands delete `!command_name`
 
-`!command_name` is the name of command you wish to use.
+`!command_name` is the name of command you wish to use
 
 ### Example
 
@@ -53,20 +57,24 @@ When !testing is called, the command will now return "new testing message"
 
 ### Userlevels and Cooldowns
 
-When adding and editing commands, the user level required to execute a command as well as the command's cool down length can be modified. You just need to apply the parameters as shown below.
+When adding and editing commands, you can also specific the userlevel required to execute the command as well as the command's cooldown time. You just need to apply the parameters as shown below.
 
 > !commands add `!command_name` -ul=`userlevel` -cd=`cooldown` `command response`
 
-Replace `!command_name` and `command response` as normally, and then replace `userlevel` with a valid userlevel from below. Replace `cooldown` with the minimum number of seconds you want between command uses.
+`!command_name` / `command response` is the same as above
 
-`UserLevel` values:
+`cooldown` is the minimum number of seconds between command uses
 
-* owner - Channel Owner
-* moderator - Channel Moderator
-* regular - Nightbot Regular (users added to the regulars list within the control panel)
-* subscriber - Paid Channel Subscriber
-* everyone - Normal User
+`userlevel` is one of the valid userlevels from below
+
+#### UserLevel values
+
+* **owner** - Channel Owner
+* **moderator** - Channel Moderator
+* **regular** - Nightbot Regular (users in the [regulars](https://docs.nightbot.tv/control-panel/regulars) list)
+* **subscriber** - Paid Channel Subscriber
+* **everyone** - Normal User *(default)*
 
 ### Variables
 
-Variables can be utilized within command responses. For a list of variables and examples of their use, check out the [Variables](https://docs.nightbot.tv/commands/variables) page.
+Variables can be used within command responses. For a list of variables and examples of their use, check out the [Variables](https://docs.nightbot.tv/commands/variables) page.

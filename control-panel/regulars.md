@@ -17,7 +17,7 @@ In the top right corner of the panel, click the blue Add User button which will 
 
 #### Settings
 
-- *Username* - This is the username of the person you wish to add as a regular.
+- *User* - This is the username of the person you wish to add as a regular. In the case of YouTube, it would be the user's YouTube channel URL.
 
 ### Managing Regulars
 

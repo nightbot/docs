@@ -6,7 +6,7 @@ You can use the Battlelog variable to create commands that display user stats or
 
 ## Usage
 
-The Battlelog variable has two actions that you can perform: stats and status.
+The Battlelog variable has two actions that you can perform: **stats** and **status**
 
 ### Stats
 

@@ -2,7 +2,7 @@
 Title: Time
 */
 
-The time variable prints the current time in a selected locale.
+The time variable prints the current time in a selected timezone.
 
 ## Normal Usage
 

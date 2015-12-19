@@ -6,9 +6,9 @@ You can use the countup variable to create commands that display the time since 
 
 ## Usage
 
-The countup variable accepts two kinds of arguments: a specific date/time or a specific time.
+The countup variable accepts two kinds of arguments: a **date/time** or a **time**
 
-### Specific Date/Time
+### Date/Time
 
 > $(countup `date/time`)
 
@@ -24,7 +24,7 @@ will result with a response in this format
 
 > 1 day, 3 hours, 20 minutes, 30 seconds
 
-### Specific Time
+### Time
 
 > $(countup `time`)
 

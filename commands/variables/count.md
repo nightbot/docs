@@ -16,7 +16,11 @@ would result in
 
 > 1
 
-if this was the first time you called the command
+if this was the first time you called the command, then
+
+> 2
+
+The next time you called the command, and so on
 
 ## Examples
 

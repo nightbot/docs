@@ -34,9 +34,9 @@ would result in
 * *game* - stream game
 * *createdAt* - date/time user account was created
 * *createdLength* - length of time user has been created (years, months, days, hours, minutes, seconds)
-* *viewers* - current number of viewers
-* *views* - current number of views
-* *followers* - current number of followers
+* *viewers* - current number of live viewers
+* *views* - current number of channel views
+* *followers* - current number of channel followers
 * *resolution* - stream resolution (if live)
 * *fps* - stream fps (if live)
 * *uptimeAt* - date/time user went live (or started playing a playlist)

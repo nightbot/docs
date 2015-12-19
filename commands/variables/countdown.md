@@ -6,7 +6,7 @@ You can utilize the countdown variable to create commands that display a countdo
 
 ## Usage
 
-The countdown variable accepts two kinds of arguments: a specific date/time or a specific time.
+The countdown variable accepts two kinds of arguments: a **date/time** or a **time**
 
 ### Specific Date/Time
 

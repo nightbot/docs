@@ -12,11 +12,11 @@ The Battlelog variable has two actions that you can perform: stats and status.
 
 > $(battlelog stats `platform` `game` `username`)
 
-`platform` is the platform the stats are being looked up for. Values can be `pc`, `ps3`, `ps4`, `xbox360`, and `xboxone`
+`platform` is the platform the stats are being looked up for (values can be `pc`, `ps3`, `ps4`, `xbox360`, and `xboxone`)
 
-`game` is the game the stats are being looked up for. Values can be `bf3`, `bf4`, `bfh`, and `mohw`
+`game` is the game the stats are being looked up for (values can be `bf3`, `bf4`, `bfh`, and `mohw`)
 
-`username` is the username being looked up for the platform being looked up.
+`username` is the username being looked up on the specied platform
 
 #### Example Usage
 

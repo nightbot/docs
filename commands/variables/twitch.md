@@ -8,7 +8,7 @@ You can utilize the Twitch variable to list profile information for Twitch accou
 
 > $(twitch `username`)
 
-`username` is the Twitch user being looked up.
+`username` is the Twitch user being looked up
 
 #### Example for Normal Usage
 
@@ -22,7 +22,7 @@ would result in
 
 > $(twitch `username` "`formatted string`")
 
-`username` is the Twitch user being looked up.
+`username` is the Twitch user being looked up
 
 `formatted string` is a string with the following mustache-tagged parameters:
 

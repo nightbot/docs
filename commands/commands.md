@@ -11,9 +11,9 @@ The !commands command allows users to get a link to your custom commands page an
 
 > !commands add `!command_name` `command response`
 
-`!command_name` is the name of command you wish to use. Commands are usually prefixed with an exclamation mark.
+`!command_name` is the name of command you wish to use. Commands are usually prefixed with an exclamation mark
 
-`command response` is the message you want Nightbot to reply with when the command is called.
+`command response` is the message you want Nightbot to reply with when the command is called
 
 ### Example
 
@@ -27,9 +27,9 @@ When !testing is called, the command will return "this is a test message"
 
 > !commands edit `!command_name` `command response`
 
-`!command_name` is the name of command you wish to edit.
+`!command_name` is the name of command you wish to edit
 
-`command response` is the message you want Nightbot to reply with when the command is called.
+`command response` is the message you want Nightbot to reply with when the command is called
 
 ### Example
 
@@ -43,7 +43,7 @@ When !testing is called, the command will now return "new testing message"
 
 > !commands delete `!command_name`
 
-`!command_name` is the name of command you wish to use.
+`!command_name` is the name of command you wish to use
 
 ### Example
 

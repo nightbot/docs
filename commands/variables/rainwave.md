@@ -8,7 +8,9 @@ Rainwave is a gaming radio network that plays raw game soundtracks, remixes, and
 
 > $(rainwave `station`)
 
-`station` is the station being looked up on Rainwave. It can be any of the following:
+`station` is the station being looked up on Rainwave
+
+The station can be any of the following:
 
 * *all* - All
 * *game* - Game
@@ -28,13 +30,7 @@ would result in
 
 > $(rainwave `station` "`formatted string`")
 
-`station` is the station being looked up on Rainwave. It can be any of the following:
-
-* *all* - All
-* *game* - Game
-* *chiptune* - Chiptune
-* *ocremix* - OC Remix
-* *covers* - Covers
+`station` is the station being looked up on Rainwave (same as above)
 
 `formatted string` is a string with the following mustache-tagged parameters:
 

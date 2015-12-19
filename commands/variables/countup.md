@@ -12,7 +12,9 @@ The countup variable accepts two kinds of arguments: a specific date/time or a s
 
 > $(countup `date/time`)
 
-`date/time` is the specific date/time you wish to count up to. It can accept variants of dates, but you will find it works best with dates in the format: Month Day Year HH/MM/SS AM/PM TZ
+`date/time` is the specific date/time you wish to count up to
+
+It can accept variants of dates, but it works best with dates in the format: `Month Day Year HH/MM/SS AM/PM TZ`
 
 #### Example Usage
 
@@ -26,7 +28,9 @@ will result with a response in this format
 
 > $(countup `time`)
 
-`time` is the specific time you wish to count up to. The countup resets daily. It can accept variants of dates, but you will find it works best with dates in the format: HH/MM/SS AM/PM TZ
+`time` is the specific time you wish to count up to (the countdown resets daily)
+
+It can accept variants of dates, but you will find it works best with dates in the format: `HH/MM/SS AM/PM TZ`
 
 #### Example Usage
 

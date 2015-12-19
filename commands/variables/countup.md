@@ -2,17 +2,19 @@
 Title: Countup
 */
 
-You can utilize the countup variable to create commands that display a countup. For example, maybe you want to countup from a special event that happened on your stream.
+You can use the countup variable to create commands that display the time since a specified date. For example, maybe you want to countup from a special event that happened on your stream.
 
 ## Usage
 
-The countup variable accepts two kinds of arguments: a specific date/time or a specific time.
+The countup variable accepts two kinds of arguments: a **date/time** or a **time**
 
-### Specific Date/Time
+### Date/Time
 
 > $(countup `date/time`)
 
-`date/time` is the specific date/time you wish to count up to. It can accept variants of dates, but you will find it works best with dates in the format: Month Day Year HH/MM/SS AM/PM TZ
+`date/time` is the specific date/time you wish to count up to
+
+It can accept variants of dates, but it works best with dates in the format: `Month Day Year HH/MM/SS AM/PM TZ`
 
 #### Example Usage
 
@@ -22,11 +24,13 @@ will result with a response in this format
 
 > 1 day, 3 hours, 20 minutes, 30 seconds
 
-### Specific Time
+### Time
 
 > $(countup `time`)
 
-`time` is the specific time you wish to count up to. The countup resets daily. It can accept variants of dates, but you will find it works best with dates in the format: HH/MM/SS AM/PM TZ
+`time` is the specific time you wish to count up to (the countdown resets daily)
+
+It can accept variants of dates, but you will find it works best with dates in the format: `HH/MM/SS AM/PM TZ`
 
 #### Example Usage
 

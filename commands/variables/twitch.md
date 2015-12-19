@@ -2,27 +2,27 @@
 Title: Twitch
 */
 
-You can utilize the Twitch variable to list profile information for Twitch accounts.
+You can use the Twitch variable to display various profile information about a specific Twitch account.
 
 ### Normal Usage
 
 > $(twitch `username`)
 
-`username` is the Twitch user being looked up.
+`username` is the Twitch user being looked up
 
 #### Example for Normal Usage
 
-> $(twitch goldglove)
+> $(twitch night)
 
 would result in
 
-> GoldGlove is currently live playing Super Mega Baseball at 720p, 60 fps with 7,780 viewers since Mon Dec 07 2015 22:10:56 GMT-0500 (EST) (4 hours, 3 minutes, 50 seconds) - http://www.twitch.tv/goldglove
+> Night is currently live playing Super Mario Kart at 720p, 60 fps with 64 viewers since Mon Dec 07 2015 22:10:56 GMT-0500 (EST) (4 hours, 3 minutes, 50 seconds) - http://www.twitch.tv/night
 
 ### Advanced Usage
 
 > $(twitch `username` "`formatted string`")
 
-`username` is the Twitch user being looked up.
+`username` is the Twitch user being looked up
 
 `formatted string` is a string with the following mustache-tagged parameters:
 
@@ -34,9 +34,9 @@ would result in
 * *game* - stream game
 * *createdAt* - date/time user account was created
 * *createdLength* - length of time user has been created (years, months, days, hours, minutes, seconds)
-* *viewers* - current number of viewers
-* *views* - current number of views
-* *followers* - current number of followers
+* *viewers* - current number of live viewers
+* *views* - current number of channel views
+* *followers* - current number of channel followers
 * *resolution* - stream resolution (if live)
 * *fps* - stream fps (if live)
 * *uptimeAt* - date/time user went live (or started playing a playlist)
@@ -44,11 +44,11 @@ would result in
 
 #### Example Usage
 
-> $(twitch goldglove "{{displayName}} has {{followers}} followers")
+> $(twitch night "{{displayName}} has {{followers}} followers")
 
 would result in
 
-> GoldGlove has 1,037,856 followers
+> Night has 14,359 followers
 
 ## Examples
 

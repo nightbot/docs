@@ -14,7 +14,7 @@ The arguments variables (1-9) print arguments split by spaces after a command. T
 
 > $(3)
 
-would print the third argument after a command.
+would print the third argument after a command
 
 If the input for a !command was
 

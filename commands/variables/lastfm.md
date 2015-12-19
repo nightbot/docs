@@ -1,8 +1,8 @@
 /*
-Title: Last.fm
+Title: Lastfm
 */
 
-You can utilize the Last.fm variable to list the most recent song scrobbled to a Last.fm account. This is useful when you use a scrobbling tool or enable scrobbling to Last.fm in Spotify and want viewers to know what track is playing on your stream.
+You can use the Lastfm variable to display the most recent song scrobbled to a Last.fm account. This is useful when you use a scrobbling tool or enable scrobbling to Last.fm in Spotify and want viewers to know what track is playing on your stream.
 
 ### Normal Usage
 
@@ -40,7 +40,7 @@ would result in
 
 ## Last.fm + Spotify
 
-A lot of streamers use Spotify for curating stream playlists. If this is the case for you, you may want to scrobble your Spotify to Last.fm. You can enable this in the Spotify settings:
+A lot of streamers use Spotify for music on stream. If this is the case for you, you may want to connect your Spotify to Last.fm. You can do this in the Spotify settings:
 
 1. Open Spotify settings
 2. Scroll to Last.fm section

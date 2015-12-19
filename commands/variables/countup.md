@@ -2,7 +2,7 @@
 Title: Countup
 */
 
-You can utilize the countup variable to create commands that display a countup. For example, maybe you want to countup from a special event that happened on your stream.
+You can use the countup variable to create commands that display the time since a specified date. For example, maybe you want to countup from a special event that happened on your stream.
 
 ## Usage
 

@@ -1,8 +1,8 @@
 /*
-Title: Last.fm
+Title: Lastfm
 */
 
-You can utilize the Last.fm variable to list the most recent song scrobbled to a Last.fm account. This is useful when you use a scrobbling tool or enable scrobbling to Last.fm in Spotify and want viewers to know what track is playing on your stream.
+You can use the Lastfm variable to display the most recent song scrobbled to a Last.fm account. This is useful when you use a scrobbling tool or enable scrobbling to Last.fm in Spotify and want viewers to know what track is playing on your stream.
 
 ### Normal Usage
 

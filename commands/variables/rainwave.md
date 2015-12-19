@@ -2,7 +2,7 @@
 Title: Rainwave
 */
 
-Rainwave is a gaming radio network that plays raw game soundtracks, remixes, and more. You can utilize the Rainwave variable to list the now playing song on any of the Rainwave stations.
+Rainwave is a gaming radio network that plays game soundtracks, remixes, and more. You can use the Rainwave variable to display the now playing song on any of the Rainwave stations.
 
 ### Normal Usage
 

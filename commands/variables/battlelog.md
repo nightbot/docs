@@ -2,7 +2,7 @@
 Title: Battlelog
 */
 
-You can utilize the Battlelog variable to create commands that import stats or status information from [EA's Battlelog](http://battlelog.battlefield.com/). This is useful for sharing the server URL of the current Battlefield server you're playing in as well as letting your viewers see your player stats in-game.
+You can use the Battlelog variable to create commands that display user stats or status information from [EA's Battlelog](http://battlelog.battlefield.com/). This is useful for sharing the URL of the current Battlefield server you're playing in as well as letting your viewers see your player stats in-game.
 
 ## Usage
 

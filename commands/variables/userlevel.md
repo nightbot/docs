@@ -2,7 +2,7 @@
 Title: UserLevel
 */
 
-The userlevel variable just prints the current command caller's userlevel. It's useful when used within a UrlFetch variable.
+The userlevel variable prints the userlevel of the user calling the command. It's useful when used within a UrlFetch variable.
 
 ## Usage
 

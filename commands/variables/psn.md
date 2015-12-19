@@ -2,7 +2,7 @@
 Title: PSN
 */
 
-You can utilize the PSN variable to create commands that import trophy stats from your PSN profile.
+You can use the PSN variable to create commands that display trophy information about a specific PSN profile.
 
 ## Usage
 

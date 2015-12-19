@@ -2,7 +2,7 @@
 Title: Countdown
 */
 
-You can utilize the countdown variable to create commands that display a countdown. For example, maybe you want to countdown until a special occasion stream or maybe you stream daily starting at a specific time. This will work great for both of those use-cases.
+You can use the countdown variable to create commands that display the time left until a specified date. For example, you may want to countdown until a special event on stream, or until when the stream will start every day.
 
 ## Usage
 

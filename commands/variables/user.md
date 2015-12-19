@@ -2,7 +2,7 @@
 Title: User
 */
 
-The user variable just prints the current user using the command.
+The user variable prints the name of the user calling the command.
 
 ## Usage
 

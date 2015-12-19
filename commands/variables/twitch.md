@@ -2,7 +2,7 @@
 Title: Twitch
 */
 
-You can utilize the Twitch variable to list profile information for Twitch accounts.
+You can use the Twitch variable to display various profile information about a specific Twitch account.
 
 ### Normal Usage
 

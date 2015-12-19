@@ -2,7 +2,7 @@
 Title: Weather
 */
 
-You can utilize the weather variable to create commands that import current weather information.
+You can use the weather variable to create commands that display weather information for a specific location.
 
 ## Usage
 

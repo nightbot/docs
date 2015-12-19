@@ -2,7 +2,7 @@
 Title: XBL
 */
 
-You can utilize the XBL variable to create commands that import information from your Xbox Live Gamertag.
+You can use the XBL variable to create commands that display information about a specific Xbox Live profile.
 
 ## Usage
 

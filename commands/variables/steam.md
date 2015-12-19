@@ -2,7 +2,7 @@
 Title: Steam
 */
 
-You can utilize the Steam variable to list profile information for Steam accounts.
+You can use the Steam variable to display various information about a specific Steam profile.
 
 ### Normal Usage
 

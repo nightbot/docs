@@ -3,4 +3,28 @@ Title: Excess Emotes
 Sort: 3
 */
 
-No content here yet..
+Nightbot offers Emotes filters that allows you to control how Excess Twitch Emotes are handled in your chat.
+
+## Usage
+
+Managing Excess Emotes be controlled in the Nightbot Spam Protection menu by owners and channel managers.
+
+To view settings for Nightbot's excess emotes filter, head over to the [Spam Protection menu](https://beta.nightbot.tv/spam_protection). 
+
+Clicking the Options button will open a popout that you can customize filter settings.
+
+#### Options
+
+- *Timeout Length* - This is maximum length of time Nightbot will timeout users for when being punished for this spam filter. Nightbot always issues a 5 second timeout for first offenses, and repeat offenses yield the length you select. The 600 second default value is equivalent to 10 minutes.
+
+- *Length* - This is minimum number of emotes before Nightbot will punish the user for spamming. Where the default limit is 3 emotes. 
+
+- *Exempt Userlevel* - This is minimum required userlevel to be exempt from this filter. For example if `regular` is set, regulars are able to use excess emotes and not get punished. 
+
+- *Silent Mode* - Enable this setting and Nightbot will no longer give messages to punished users. This is useful for busier channels where Nightbot floods the chat with timeout explanation messages.
+
+- *Custom Message* - This sets a custom message to be displayed to users when they are punished from the excess emotes filter. Leaving this blank will use the default messages, which are randomly chosen Duke Nukem quotes.
+
+### Managing Excess Emotes Filter
+
+All filters can be managed through the [Spam Protection menu](https://beta.nightbot.tv/spam_protection) or through the [!filters command](https://docs.nightbot.tv/commands/filters).

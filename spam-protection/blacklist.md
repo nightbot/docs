@@ -17,7 +17,7 @@ Clicking the Options button will open a popout that you can customize blacklist 
 
 #### Options
 
-- *Blacklist* - This is the text box of filtered words and phrases you wish to blacklist. Entering one entry per line. You can use an asterisk (\*) as a wildcard character to dynamically filter words and phrases. For example, `test\*` blocks `test`, `testing`, `testerino`, etc.
+- *Blacklist* - This is the text box of filtered words and phrases you wish to blacklist. Entering one entry per line. You can use an asterisk (\*) as a wildcard character to dynamically filter words and phrases. For example, `test*` blocks `test`, `testing`, `testerino`, etc.
 
 - *Timeout Length* - This is maximum length of time Nightbot will timeout users for when being punished for this spam filter. Nightbot always issues a 5 second timeout for first offenses, and repeat offenses yield the length you select here. The 600 second default value is equivalent to 10 minutes.
 

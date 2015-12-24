@@ -59,13 +59,15 @@ When !testing is called, the command will now return
 
 When adding and editing commands, you can also specific the userlevel required to execute the command as well as the command's cooldown time. You just need to apply the parameters as shown below.
 
-> !commands add `!command_name` -ul=`userlevel` -cd=`cooldown` `command response`
+> !commands add `!command_name` -ul=`userlevel` -cd=`cooldown` -a=`!alias` `command response`
 
-`!command_name` / `command response` is the same as above
+`!command_name` / `command response` is the same as above.
 
-`cooldown` is the minimum number of seconds between command uses
+`cooldown` is the minimum number of seconds between command uses.
 
-`userlevel` is one of the valid userlevels from below
+`userlevel` is one of the valid userlevels from below.
+
+`!alias` is a different command you want this command to call. Note that the input passed to the provided alias is the `command response`. To capture user input, you'd need to place [variables](https://docs.nightbot.tv/commands/variables) in the `command response` (like `$(query)`).
 
 #### UserLevel values
 

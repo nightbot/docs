@@ -62,6 +62,8 @@ Then, fill in the form with your desired command name, message, userlevel, and c
 
 - *Cooldown* - Time minimum amount of time between command uses (to prevent the command from spamming the chat)
 
+- *Alias* - If the command you're making is supposed to call another command, specify the other command here. Note that the input passed to the listed alias is the message. To capture user input, you'd need to place [variables](https://docs.nightbot.tv/commands/variables) in the message (like `$(query)`).
+
 ### Removing and Editing Existing Commands
 
 The control panel makes it a breeze to edit and delete existing custom commands. On the commands page, a list of created custom commands will be shown in a table. Under the actions column are buttons for editing and deleting commands.

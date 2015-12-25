@@ -1,6 +1,6 @@
 /*
 Title: !songs
-Sort: 7
+Sort: 8
 */
 
 The !songs command is used to manage Song Requests within Nightbot. **Note**: Make sure [Song Request](https://beta.nightbot.tv/song_requests) is enabled before using these commands.

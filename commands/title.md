@@ -1,6 +1,6 @@
 /*
 Title: !title
-Sort: 8
+Sort: 9
 */
 
 The !title command displays the current title and allows you and your moderators to modify it.

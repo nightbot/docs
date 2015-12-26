@@ -3,22 +3,22 @@ Title: !game
 Sort: 5
 */
 
-The !game command displays the current game and allows you and your moderators to modify it.
+The !game command displays the current game being played on the stream and allows you and your moderators to modify it.
 
 ## Usage
 
-> !game `[game_name]`
+> !game `game name`
 
-`game_name` is the name of the game that you wish to change to. Leaving this blank will just display the game.
+`game name` is the name of the game that you wish to change to. Only place a game name to change the current game. Omitting this value displays the current game.
 
-### Example
-
-> !game League of Legends
-
-Will set the game to 'League of Legends'.
+### Examples
 
 > !game
 
-Will show the current game.
+will return "night is playing League of Legends"
 
-**Note:** The default userlevel for the !game command is set to `everyone`. Meaning that everyone in the channel can see the current !game, however, only moderators and owner can modify it.
+> !game League of Legends
+
+will return "The stream game has been updated to: League of Legends"
+
+**Note:** The default userlevel for the !game command is set to `everyone`. This implies that everyone can check the current game being streamed to the channel. Only moderators and higher userlevels can modify the current game.

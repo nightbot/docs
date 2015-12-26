@@ -3,7 +3,7 @@ Title: !regulars
 Sort: 7
 */
 
-Nightbot Regulars adds another userlevel to the chat. Regulars can be granted extra permission for commands and spam protection. The !regulars command allows you and your moderators to add, remove, and modify channel regulars.
+Nightbot regulars add another userlevel to the chat. Regulars can be granted extra permission for commands and spam protection. The !regulars command allows you and your moderators to add, remove, and modify channel regulars.
 
 ## Adding Regulars
 
@@ -11,7 +11,7 @@ Nightbot Regulars adds another userlevel to the chat. Regulars can be granted ex
 
 > !regulars add `username`
 
-`username` is the name of a user you wish to add as a regular
+`username` is the username of the person you wish to add as a regular. In the case of YouTube, it would be the user's YouTube channel URL.
 
 ### Example
 
@@ -23,7 +23,7 @@ Nightbot Regulars adds another userlevel to the chat. Regulars can be granted ex
 
 > !regulars delete `username`
 
-`username` is the name of a user you wish to remove as a regular
+`username` is the username of the person you wish to remove as a regular. In the case of YouTube, it would be the user's YouTube channel URL.
 
 ### Example
 

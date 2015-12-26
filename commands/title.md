@@ -3,22 +3,22 @@ Title: !title
 Sort: 9
 */
 
-The !title command displays the current title and allows you and your moderators to modify it.
+The !title command displays the current title of the stream and allows you and your moderators to modify it.
 
 ## Usage
 
-> !title `[title_name]`
+> !title `title`
 
-`title_name` is the title that you wish to change. Leaving this blank will just display current stream title.
+`title` is the title you wish to change your stream title to. Only place a title to change the title. Omitting this value displays the current title.
 
-### Example
-
-> !title Day 3: Building Again
-
-Will set the stream title to 'Day 3: Building Again'.
+### Examples
 
 > !title
 
-Will show the current stream title.
+will return "Current Stream Title: Day 2: Building Again"
 
-**Note:** The default userlevel for the !title command is set to `everyone`. Meaning that everyone in the channel can see the current !title, however, only moderators and owner can modify it.
+> !title Day 3: Building Again
+
+will return "The stream title has been updated to: Day 3: Building Again"
+
+**Note:** The default userlevel for the !title command is set to `everyone`. This implies that everyone can check the current title of the stream. Only moderators and higher userlevels can modify the title.

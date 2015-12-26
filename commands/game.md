@@ -21,4 +21,4 @@ will return "night is playing League of Legends"
 
 will return "The stream game has been updated to: League of Legends"
 
-**Note:** The default userlevel for the !game command is set to `everyone`. This implies that everyone can check the current game being streamed to the channel. Only moderators and higher userlevels can modify the current game.
+**Note:** The default userlevel for the !game command is set to `everyone`. This implies that everyone can check the current game being streamed to the channel. Only moderators and higher userlevels can modify the game.

@@ -1,6 +1,6 @@
 /*
 Title: !regulars
-Sort: 4
+Sort: 7
 */
 
 Nightbot Regulars adds another userlevel to the chat. Regulars can be granted extra permission for commands and spam protection. The !regulars command allows you and your moderators to add, remove, and modify channel regulars.

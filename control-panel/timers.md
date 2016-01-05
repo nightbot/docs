@@ -25,7 +25,7 @@ In the top right corner of the panel, click the blue Add button which will open 
 
 - *Interval* - Move the slider to the desired amount of time before the timer repeats. For example, 15 minute intervals will activate at 2:00, 2:15, 2:30, etc.
 
-- *Chat Lines* - This is the minimum amount of chat lines required to activate the timer. This is useful in slow chats to prevent Nightbot from spamming in an empty channel.
+- *Chat Lines* - This is the minimum amount of chat lines (measured in lines per 5 minutes) required to activate the timer. This is useful in slow chats to prevent Nightbot from spamming in an empty channel.
 
 **Note**: The timer will first wait the specified amount of time and then check to see if the specified number of chat lines have passed before displaying a message. This can account for timer messages not displaying after passing their interval.
 

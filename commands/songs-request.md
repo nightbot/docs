@@ -43,4 +43,4 @@ In the case of search terms
 
 will request the SoundCloud track of that search if the owner has SoundCloud as the Search Provider.
 
-**Note**: Because of the full link request, `soundcloud.com` may need to be added as a Link Whitelist in the [Links Spam Protection](https://docs.nightbot.tv/spam-protection/links).
+**Note**: Because of the full link request, `soundcloud.com` may need to be added as a Link Whitelist in the [Links Spam Protection](https://docs.nightbot.tv/spam-protection/links) if enabled.

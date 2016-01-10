@@ -87,6 +87,8 @@ will display the next song
 
 ## Requesting a Song
 
+For a more in-depth guide on requesting songs please see: [!songs request](https://docs.nightbot.tv/commands/songs-request)
+
 ### Usage 
 
 > !songs request `Youtube or SoundCloud ID / Search Term`

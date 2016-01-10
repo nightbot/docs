@@ -1,6 +1,6 @@
 /*
 Title: !songs request
-Sort: 11
+Sort: 9
 */
 
 Requesting songs is the sole part of Nightbot Song Requests. This guide is how to request songs in Nightbot AutoDJ streams. There are currently two places to requests songs, in the stream chat ([!songs](https://docs.nightbot.tv/commands/songs)) command and in the channel songlist page. For a guide on playing songs please see the [AutoDJ](https://docs.nightbot.tv/control-panel/autodj) guide.

@@ -1,6 +1,6 @@
 /*
 Title: AutoDJ
-Sort: 6
+Sort: 3
 */
 
 AutoDJ is the player for Song Requests in your Stream. [AutoDJ](https://beta.nightbot.tv/song_requests) as includes various settings that allows for how you want Song Request in your stream.

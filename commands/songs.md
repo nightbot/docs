@@ -3,7 +3,7 @@ Title: !songs
 Sort: 8
 */
 
-The !songs command is used to manage Song Requests within Nightbot. **Note**: Make sure [Song Request](https://beta.nightbot.tv/song_requests) is enabled before using these commands.
+The !songs command is used to manage Song Requests within Nightbot. **Note**: Make sure [song requests](https://beta.nightbot.tv/song_requests) are enabled before using these commands.
 
 ## Viewing Current Song
 
@@ -89,25 +89,13 @@ will display the next song
 
 ### Usage 
 
-> !songs request `Youtube or SoundCloud ID / Search Term`
+> !songs request `Youtube or SoundCloud Link / Search Term`
 
-Will use the Link, ID, or Search Term supplied to add a song to the queue.
-
-### Example
-
-> !songs request `https://www.youtube.com/watch?v=mw2kKyJu9gY`
-
-> !songs request mw2kKyJu9gY
-
-> !songs request Run - AWOLNATION
-
-will all add a song to the queue.
-
-Below are the current song providers that songs can be requested from and that channel owners can choose from.
+Will use the link or search term supplied to add a song to the queue. **If YouTube or SoundCloud has been disabled in the song request settings, they cannot be used to request songs.**
 
 ### YouTube
 
-YouTube videos can be requested with the whole YouTube link, the video ID (text after `/watch?v=`) or through a search term (if YouTube is the selected Search Provider).
+YouTube videos can be requested with the whole YouTube link, the video ID (text after `/watch?v=`), or through a search term (if YouTube is the selected search provider).
 
 #### Usage
 
@@ -121,13 +109,13 @@ In the case of search terms
 
 > !songs request Arctic Monkeys - R U Mine?
 
-will request a YouTube video of that search if the owner has YouTube as the Search Provider. 
+will search YouTube for a video with the closest name if the channel configured YouTube as the search provider. 
 
 **Note**: When entering the video ID only the standalone ID will work. No additional charaters can be added, for example `!songs request /watch?v=ngzC_8zqInk` and `!songs request ?v=ngzC_8zqInk` will result in an error.
 
 ### SoundCloud
 
-SoundCloud tracks can be requested with the whole SoundCloud link, or through a search team (if SoundCloud is the selected Search Provider).
+SoundCloud tracks can be requested with the whole SoundCloud link or through a search team if SoundCloud is the selected search provider.
 
 #### Usage
 
@@ -137,9 +125,7 @@ In the case of search terms
 
 > !songs request All of me - John Legend
 
-will request the SoundCloud track of that search if the owner has SoundCloud as the Search Provider.
-
-**Note**: Because of the full link request, `soundcloud.com` may need to be added as a Link Whitelist in the [Links Spam Protection](https://docs.nightbot.tv/spam-protection/links) if enabled.
+will search SoundCloud for a track with the closest name if the channel configured SoundCloud as the search provider.
 
 ## Skipping Current Song
 

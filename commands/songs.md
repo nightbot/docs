@@ -53,6 +53,22 @@ will return the response
 
 > Night -> The song list for this channel is available at https://beta.nightbot.tv/t/night/song_requests
 
+## Getting Channels Playlist
+
+### Usage
+
+> !songs playlist
+
+will return a link to the the channels playlist
+
+### Example
+
+> !songs playlist
+
+will return the response
+
+> Night -> The song playlist for this channel is available at https://beta.nightbot.tv/t/night/song_requests/playlist
+
 ## Getting Next Song
 
 ### Usage 
@@ -70,6 +86,8 @@ will display the next song
 > night -> "AWOLNATION - Run (Audio)" by Red Bull Records is the next song.
 
 ## Requesting a Song
+
+For a more in-depth guide on requesting songs please see: [!songs request](https://docs.nightbot.tv/commands/songs-request)
 
 ### Usage 
 

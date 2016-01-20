@@ -1,6 +1,6 @@
 /*
 Title: !title
-Sort: 9
+Sort: 10
 */
 
 The !title command displays the current title of the stream and allows you and your moderators to modify it.

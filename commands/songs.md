@@ -143,6 +143,22 @@ will the skip current song and return
 
 > Night -> "AWOLNATION - Sail (Official Music Video)" by Red Bull Records has been skipped.
 
+## Pausing Current Song
+
+### Usage 
+
+> !songs pause
+
+will pause the music player (if it's open and playing)
+
+## Playing Current Song
+
+### Usage 
+
+> !songs play
+
+will play the music player (if it's open and paused)
+
 ## Promoting a Song
 
 ### Usage 

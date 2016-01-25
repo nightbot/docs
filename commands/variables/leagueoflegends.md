@@ -1,8 +1,8 @@
 /*
-Title: League of Legends
+Title: LeagueOfLegends
 */
 
-You can use the League of Legends variable to create commands that display rank information for a summoner name.
+You can use the LeagueOfLegends variable to create commands that display rank information for a summoner name.
 
 ## Usage
 

@@ -115,7 +115,7 @@ will search YouTube for a video with the closest name if the channel configured 
 
 ### SoundCloud
 
-SoundCloud tracks can be requested with the whole SoundCloud link or through a search team if SoundCloud is the selected search provider.
+SoundCloud tracks can be requested with the whole SoundCloud link or through a search term if SoundCloud is the selected search provider.
 
 #### Usage
 
@@ -126,6 +126,24 @@ In the case of search terms
 > !songs request All of me - John Legend
 
 will search SoundCloud for a track with the closest name if the channel configured SoundCloud as the search provider.
+
+## Spotify
+
+Spotify songs can be requested through the Track Link or with the Spotify URI code (examples below).
+
+**Notice:** Spotify requests can only be played if the streamer is using the [Nightbot Beta App](https://docs.nightbot.tv/app-beta) has **correctly configured** use with Spotify. If you wish to use Spotify as a streamer, please also read about [Spotify limitations](https://docs.nightbot.tv/app-beta#spotify).   
+
+#### Usage
+
+> !songs request https://open.spotify.com/track/1FMm3wG5WOhi7js35KR7Ea
+
+> !songs request spotify:track:1FMm3wG5WOhi7js35KR7Ea
+
+In the case of search terms
+
+> !songs request You're Gonna Go Far, Kid - The Offspring
+
+will search Spotify for a track with the closest name if the channel configured Spotify as the search provider.
 
 ## Skipping Current Song
 

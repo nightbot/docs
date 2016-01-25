@@ -3,11 +3,11 @@ Title: Excess Symbols
 Sort: 5
 */
 
-Nightbot offers Symbols filters that allows you to control how Excess Symbols are handled in your chat.
+Nightbot offers Symbol filters that allows you to control how Excess Symbols are handled in your chat.
 
 ## Usage
 
-Managing Excess Symbols be controlled in the Nightbot Spam Protection menu by owners and channel managers.
+Managing Excess Symbols can be found in the Nightbot Spam Protection menu by owners and channel managers.
 
 To view settings for Nightbot's excess symbols filter, head over to the [Spam Protection menu](https://beta.nightbot.tv/spam_protection). 
 

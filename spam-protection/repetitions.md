@@ -7,7 +7,7 @@ Nightbot offers Repetition filters that allows you to control how repeated phras
 
 ## Usage
 
-Managing the Repetition can be found in the Nightbot Spam Protection menu by owners and channel managers.
+Managing Repetition can be found in the Nightbot Spam Protection menu by owners and channel managers.
 
 To view settings for Nightbot's excess emotes filter, head over to the [Spam Protection menu](https://beta.nightbot.tv/spam_protection). 
 

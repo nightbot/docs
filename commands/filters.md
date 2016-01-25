@@ -20,6 +20,7 @@ As explained above, the filters command at its core allows control over Nightbot
 - **emotes** - Prevents chatters from posting many emotes in messages [[*more info*](https://docs.nightbot.tv/spam-protection/emotes)]
 - **links** - Prevents chatters from posting links, and allows you to whitelist certain links [[*more info*](https://docs.nightbot.tv/spam-protection/links)]
 - **symbols** - Prevents chatters from posting many symbols in messages [[*more info*](https://docs.nightbot.tv/spam-protection/symbols)]
+- **repetitions** - Prevents chatters from posting repeating words and phrases [[*more info*](https://docs.nightbot.tv/spam-protection/repetitions)]
 
 As this step alone Nightbot will return both if the filter is enabled or disabled and further spam protection settings that can be managed.
 

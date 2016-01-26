@@ -1,6 +1,6 @@
 /*
 Title: Spam Protection
-Sort: 4
+Sort: 5
 */
 
 * [Blacklist Words/Phrases](https://docs.nightbot.tv/spam-protection/blacklist)

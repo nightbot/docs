@@ -1,6 +1,6 @@
 /*
 Title: Giveaways
-Sort: 6
+Sort: 2
 */
 
 Nightbot Giveaways can be used a variety of different ways. This page is to simply inform the different giveaways you can use in your stream.

@@ -10,6 +10,7 @@ Sort: 2
 * `Countdown` – time left until a specified time  [[*more info*](https://docs.nightbot.tv/commands/variables/countdown)]
 * `Countup` – time past since a specified time  [[*more info*](https://docs.nightbot.tv/commands/variables/countup)]
 * `Lastfm` – last scrobbled song from a Last.fm profile  [[*more info*](https://docs.nightbot.tv/commands/variables/lastfm)]
+* `LeagueOfLegends` - display rank information for a summoner name [[*more info*](https://docs.nightbot.tv/commands/variables/leagueoflegends)]
 * `PSN` – user stats from a Playstation Network profile  [[*more info*](https://docs.nightbot.tv/commands/variables/psn)]
 * `Query` – full input that comes after the command  [[*more info*](https://docs.nightbot.tv/commands/variables/query)]
 * `QueryString` – full input that comes after the command with url-encoding  [[*more info*](https://docs.nightbot.tv/commands/variables/querystring)]

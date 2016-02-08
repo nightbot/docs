@@ -1,6 +1,6 @@
 /*
 Title: Regulars
-Sort: 2
+Sort: 3
 */
 
 Nightbot Regulars adds another userlevel to the chat. Regulars can be granted extra permission for commands and spam protection.

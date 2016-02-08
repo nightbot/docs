@@ -7,7 +7,7 @@ Nightbot offers Links filters that allows you to control how Links are handled i
 
 ## Usage
 
-Managing Link be controlled in the Nightbot Spam Protection menu by owners and channel managers. This filter can also be managed through the [!filters command](https://docs.nightbot.tv/commands/filters).  
+Managing Links can be found in the Nightbot Spam Protection menu by owners and channel managers. This filter can also be managed through the [!filters command](https://docs.nightbot.tv/commands/filters).  
 
 To view settings for Nightbot's links filter, head over to the [Spam Protection menu](https://beta.nightbot.tv/spam_protection). 
 

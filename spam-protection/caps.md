@@ -7,7 +7,7 @@ Nightbot offers Capitalization filters that allows you to control how Excess Cap
 
 ## Usage
 
-Excess Caps be controlled in the Nightbot Spam Protection menu by owners and channel managers.
+Managing Excess Caps be found in the Nightbot Spam Protection menu by owners and channel managers.
 
 To view settings for Nightbot's excess caps filter, head over to the [Spam Protection menu](https://beta.nightbot.tv/spam_protection). 
 

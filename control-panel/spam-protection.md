@@ -1,6 +1,6 @@
 /*
 Title: Spam Protection
-Sort: 4
+Sort: 5
 */
 
 * [Blacklist Words/Phrases](https://docs.nightbot.tv/spam-protection/blacklist)
@@ -13,3 +13,5 @@ Sort: 4
   - Prevents chatters from posting links, and allows you to whitelist certain links
 * [Excess Symbols](https://docs.nightbot.tv/spam-protection/symbols)
   - Prevents chatters from posting many symbols in messages
+* [Repetitions](https://docs.nightbot.tv/spam-protection/repetitions)
+  - Prevents chatters from posting repeating words and phrases

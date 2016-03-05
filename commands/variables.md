@@ -9,6 +9,7 @@ Sort: 2
 * `Count` – variable that automatically increments [[*more info*](https://docs.nightbot.tv/commands/variables/count)]
 * `Countdown` – time left until a specified time  [[*more info*](https://docs.nightbot.tv/commands/variables/countdown)]
 * `Countup` – time past since a specified time  [[*more info*](https://docs.nightbot.tv/commands/variables/countup)]
+* `DJKhaled` - display one of DJ Khaled’s 🔑s to success  [[*more info*](https://docs.nightbot.tv/commands/variables/djkhaled)] 
 * `Lastfm` – last scrobbled song from a Last.fm profile  [[*more info*](https://docs.nightbot.tv/commands/variables/lastfm)]
 * `LeagueOfLegends` - display rank information for a summoner name [[*more info*](https://docs.nightbot.tv/commands/variables/leagueoflegends)]
 * `PSN` – user stats from a Playstation Network profile  [[*more info*](https://docs.nightbot.tv/commands/variables/psn)]

@@ -17,8 +17,8 @@ This is the default commands for Nightbot related things. Find more information 
   * `new` - Create a new Strawpoll to vote on
   * `results` - View Current Results of Latest Strawpoll
 * `!regulars`  [[*more info*](https://docs.nightbot.tv/commands/regulars)]
-  * `add` - Add Username to Regular Userlevel
-  * `delete` - Delete Username from Regular Userlevel
+  * `add` - Add Username to Regular UserLevel
+  * `delete` - Delete Username from Regular UserLevel
 * `!songs`  [[*more info*](https://docs.nightbot.tv/commands/songs)]
   * `current` - Display Current Song from AutoDJ
   * `delete` - Delete Existing Song from the Song Queue

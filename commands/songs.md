@@ -59,7 +59,7 @@ will return the response
 
 > !songs playlist
 
-will return a link to the the channels playlist
+will return a link to the channels playlist
 
 ### Example
 
@@ -127,7 +127,7 @@ In the case of search terms
 
 will search SoundCloud for a track with the closest name if the channel configured SoundCloud as the search provider.
 
-## Spotify
+### Spotify
 
 Spotify songs can be requested through the Track Link or with the Spotify URI code (examples below).
 

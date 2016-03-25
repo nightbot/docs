@@ -13,6 +13,8 @@ The majority of the default commands are designed to allow moderators to control
 
 * [!commands](https://docs.nightbot.tv/commands/commands)
   - Allows users to see a list of channel commands, and allows moderators to manage custom commands
+* [!commercial](https://docs.nightbot.tv/commands/commercial)
+  - Runs a commercial/ad on your stream (if your channel is partnered)
 * [!filters](https://docs.nightbot.tv/commands/filters)
   - Allows moderators to manage spam protection filter settings
 * [!game](https://docs.nightbot.tv/commands/game)

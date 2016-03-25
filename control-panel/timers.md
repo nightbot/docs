@@ -27,6 +27,8 @@ In the top right corner of the panel, click the blue Add button which will open 
 
 - *Chat Lines* - This is the minimum amount of chat lines (measured in lines per 5 minutes) required to activate the timer. This is useful in slow chats to prevent Nightbot from spamming in an empty channel.
 
+- *Alias* - If you want this timer to call a command, specify that command here. Note that the input passed to the listed alias is the message field above, so to pass data to the command you need to place it in the message field. You can also use most variables in the message field.
+
 **Note**: The timer will first wait the specified amount of time and then check to see if the specified number of chat lines have passed before displaying a message. This can account for timer messages not displaying after passing their interval.
 
 ### Managing Timers

@@ -1,20 +1,26 @@
 /*
-Title: !commerical
+Title: !commercial
 Sort: 12
 */
 
-The !commercial command will run a commerical for a specifed length. This will only work if your a channel is partnered. 
+The !commercial command will run a commercial for a specified length. This command will only work if your a channel is partnered. 
 
 ## Usage
 
-> !commercial `duration`
+> !commercial `duration` `[silent]`
 
-`duration` is how long you want the commerical to run for. This duration can be `30`, `60`, `90`, `120`, `150`, `180`.
+`duration` is the length you want the commercial to run for. The duration can be `30`, `60`, `90`, `120`, `150`or `180` seconds.
+
+`[silent]` is an optional value that will hide the Nightbot response, particularity for use in Timers.
 
 ### Examples
 
 > !commercial 30
 
-will still start a commerical that lasts for 30 seconds. 
+will start a commercial with a duration of 30 seconds. 
 
-**Note:** The default userlevel for the !title command is set to `owner`. 
+> !commercial 60 silent
+
+will start a commercial with the Nightbot response hidden.
+
+**Note:** The default UserLevel for the !commercial command is set to `owner`. 

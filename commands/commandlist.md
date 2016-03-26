@@ -5,6 +5,9 @@ Sort: 1
 
 This is the default commands for Nightbot related things. Find more information about these commands with their related links.
 
+* `!nightbot`
+  * `join` - Force Nightbot to Join your Channel (Only in [Nightbot's Chat](https://www.twitch.tv/nightbot)) [**Owner Only**] 
+  * `part` or `leave` - Force Nightbot to Leave your Channel [**Owner Only**]
 * `!commands` - Link to Command Page for that Channel  [[*more info*](https://docs.nightbot.tv/commands/commands)]
   * `add` - Add Custom Command to Nightbot
   * `edit` - Edit existing Custom Command
@@ -12,7 +15,7 @@ This is the default commands for Nightbot related things. Find more information 
 * `!commercial` - Run a Commercial for Specified Duration  [[*more info*](https://docs.nightbot.tv/commands/commercial)]
 * `!filters` - Manage existing Spam Protection Filters  [[*more info*](https://docs.nightbot.tv/commands/filters)]
 * `!game` - Show Current Game for that Channel  [[*more info*](https://docs.nightbot.tv/commands/game)]
-  * `<input>` - Set Current Game for that Channel
+  * `<game>` - Set Current Game for that Channel
 * `!poll`  [[*more info*](https://docs.nightbot.tv/commands/poll)]
   * `new` - Create a new Strawpoll to vote on
   * `results` - View Current Results of Latest Strawpoll
@@ -33,5 +36,5 @@ This is the default commands for Nightbot related things. Find more information 
   * `play` - Start the Playing of AutoDJ (must be open in browser)
   * `pause` - Pause the Playing of AutoDJ (must be open in browser)
 * `!title` - Show Current Title for that Channel  [[*more info*](https://docs.nightbot.tv/commands/title)]
-  * `<input>` - Set Current Title for that Channel
+  * `<title>` - Set Current Title for that Channel
 * `!winner` - Get Random Chatter from your Channel  [[*more info*](https://docs.nightbot.tv/commands/winner)]

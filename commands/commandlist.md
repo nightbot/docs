@@ -3,7 +3,7 @@ Title: Commands List
 Sort: 1
 */
 
-This is the default commands for Nightbot related things. Find more information about these commands with their related links.
+These are the default commands for Nightbot. Find more information about each command with their related links.
 
 * `!nightbot`
   * `join` - Force Nightbot to Join your Channel (Only in [Nightbot's Chat](https://www.twitch.tv/nightbot)) [**Owner Only**] 

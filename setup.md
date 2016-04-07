@@ -1,6 +1,6 @@
 /*
 Title: General Setup
-Sort: 3
+Sort: 5
 */
 
 ## General Setup Guide for Nightbot
@@ -13,7 +13,7 @@ Welcome to the new and improved Nightbot!
 
 ### Sign in & Dashboard
 
-To begin start by heading to the [Nightbot Homepage](https://beta.nightbot.tv/) and sign in using the service you intend to use Nightbot with. Upon granting access you will directed to the Nightbot Control Panel.
+To begin start by heading to the [Nightbot Homepage](https://beta.nightbot.tv/) and sign in using the service you intend to use Nightbot with. Upon granting access you are directed to the Nightbot Control Panel.
 
 The Nightbot Control Panel is the central hub to controlling Nightbot. The Dashboard is a useful area to display stats such as chat activity, command usage, and spam filters in realtime. Using the navigation bar on the left you can edit a specific area of Nightbot.
 
@@ -27,7 +27,7 @@ On the Dashboard, click the Join Button on the top-right of the page to have Nig
 
 After adding Nightbot into your chat you can now begin with creating custom commands! Custom commands are an important part of any stream, making information easier to access. You can create commands in the [Custom Command](https://beta.nightbot.tv/commands/custom) page in the Nightbot Control Panel.
 
-Using the Add Command button you can give your commands a name (usually leading with a explanation mark) and a response that Nightbot will return. Check out the [Custom Variables](https://docs.nightbot.tv/commands/variables) page to customize your commands with features like Click-To-Tweet links or displaying the weather of a location.
+Using the Add Command button you can give your commands a name (usually leading with a exclamation mark) and a response that Nightbot will return. Check out the [Custom Variables](https://docs.nightbot.tv/commands/variables) page to customize your commands with features like Click-To-Tweet links or displaying the weather of a location.
 
 This can also be done by you or your moderators in the chat. For more information about adding commands in chat check out the [!commands](https://docs.nightbot.tv/commands/commands) page.
 

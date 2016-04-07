@@ -1,9 +1,9 @@
 /*
 Title: Nightbot FAQ
-Sort: 3
+Sort: 4
 */
 
-Here is are the most common questions we get asked, all on one page. If you still need more support for specific items use the [Nightbot Forum](https://community.nightdev.com/c/nightbot) or use the [Contact Form](https://www.nightdev.com/contact/) for more private matters.
+Here are the most common questions we get asked, all on one page. If you still need more support for specific items use the [Nightbot Forum](https://community.nightdev.com/c/nightbot) or the [Contact Form](https://www.nightdev.com/contact/) for more private matters.
 
 ### Why isn't Nightbot joining, I'm using Youtube Gaming? Why is Nightbot taking a long time to respond on Youtube Gaming?
 

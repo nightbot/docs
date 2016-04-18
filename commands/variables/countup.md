@@ -14,7 +14,7 @@ The countup variable accepts two kinds of arguments: a **date/time** or a **time
 
 `date/time` is the specific date/time you wish to count up to
 
-It can accept variants of dates, but it works best with dates in the format: `Month Day Year HH/MM/SS AM/PM TZ`
+It can accept variants of dates, but you will find it works best with dates in the format: `MM DD YYYY HH:MM:SS AM/PM TZ`, `MM` is the month, `DD` is the day, `YYYY` is the year, `HH` is the hour, `MM` is the minutes, `SS` is the seconds, `AM/PM` is `AM` *or* `PM`, and `TZ` is the timezone. For a list of supported timezones, check out [https://docs.nightbot.tv/commands/variables/time#timezones](the time variable page).
 
 #### Example Usage
 
@@ -22,15 +22,15 @@ It can accept variants of dates, but it works best with dates in the format: `Mo
 
 will result with a response in this format
 
-> 1 day, 3 hours, 20 minutes, 30 seconds
+> 1 day 3 hours 20 minutes 30 seconds
 
 ### Time
 
 > $(countup `time`)
 
-`time` is the specific time you wish to count up to (the countdown resets daily)
+`time` is the specific time you wish to count up to (the countup resets daily)
 
-It can accept variants of dates, but you will find it works best with dates in the format: `HH/MM/SS AM/PM TZ`
+It can accept variants of times, but you will find it works best with times in the format: `HH:MM:SS AM/PM TZ`, where `HH` is the hour, `MM` is the minutes, `SS` is the seconds, `AM/PM` is `AM` *or* `PM`, and `TZ` is the timezone. For a list of supported timezones, check out [https://docs.nightbot.tv/commands/variables/time#timezones](the time variable page).
 
 #### Example Usage
 
@@ -38,7 +38,7 @@ It can accept variants of dates, but you will find it works best with dates in t
 
 will result with a response in this format
 
-> 3 hours, 20 minutes, 30 seconds
+> 3 hours 20 minutes 30 seconds
 
 ## Examples
 

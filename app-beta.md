@@ -32,7 +32,7 @@ To use Spotify, simply open Spotify **before** launching the Nightbot app and th
 
 **Volume cannot be changed within the control panel for Spotify, only within Spotify's player.** This is a limitation that cannot be worked around, unfortunately.
 
-**If you're having issues getting Spotify and use antivirus/firewall software (like AVG), it might be blocking Spotify from opening ports that the Nightbot app needs to access for this feature. Try disabling your antivirus to see if that fixes the issue, and if so, add an exception for Spotify in your antivirus/firewall.**
+**If you're having issues getting Spotify to work and use antivirus/firewall software (like AVG), it might be blocking Spotify from opening ports that the Nightbot app needs to access for this feature. Try disabling your antivirus to see if that fixes the issue, and if so, add an exception for Spotify in your antivirus/firewall.**
 
 ### Copyright FYI
 

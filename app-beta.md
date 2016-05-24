@@ -32,6 +32,8 @@ To use Spotify, simply open Spotify **before** launching the Nightbot app and th
 
 **Volume cannot be changed within the control panel for Spotify, only within Spotify's player.** This is a limitation that cannot be worked around, unfortunately.
 
+**If you're having issues getting Spotify and use antivirus/firewall software (like AVG), it might be blocking Spotify from opening ports that the Nightbot app needs to access for this feature. Try disabling your antivirus to see if that fixes the issue, and if so, add an exception for Spotify in your antivirus/firewall.**
+
 ### Copyright FYI
 
 Be aware that streaming copyrighted music content may result in negative consequences for your stream. Many music content producers (Monstercat, Ninety9Lives, etc.) are starting to offer licensing for their content to be played on YouTube/Twitch. We recommend setting up a channel playlist full of licensed/free music and then restricting requested songs to the channel playlist (this can be configured in the song request settings). This ensures you control the library of music that can be played on your stream and prevents viewers from causing you to break any laws by streaming copyrighted content.

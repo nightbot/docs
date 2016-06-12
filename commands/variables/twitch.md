@@ -41,6 +41,7 @@ would result in
 * *fps* - stream fps (if live)
 * *uptimeAt* - date/time user went live (or started playing a playlist)
 * *uptimeLength* - length of time user has been live (or started playing a playlist) (years, months, days, hours, minutes, seconds)
+* *subscriberCount* - the number of subscribers a channel has (only available when querying from the desired channel)
 
 #### Example Usage
 

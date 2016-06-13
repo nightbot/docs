@@ -3,30 +3,32 @@ Title: Nightbot FAQ
 Sort: 4
 */
 
-Here are the most common questions we get asked, all on one page. If you still need more support for specific items use the [Nightbot Forum](https://community.nightdev.com/c/nightbot) or the [Contact Form](https://www.nightdev.com/contact/) for more private matters.
+Here are the most common questions we get asked, all on one page. For additional support for specific items use the [Nightbot Forum](https://community.nightdev.com/c/nightbot) or the [Contact Form](https://www.nightdev.com/contact/) for more private matters.
 
-### Why isn't Nightbot joining, I'm using Youtube Gaming? Why is Nightbot taking a long time to respond on Youtube Gaming?
+### Why isn't Nightbot joining, I'm using YouTube Gaming? Why is Nightbot taking a long time to respond on YouTube Gaming?
 
-Nightbot for YouTube will only join your channel when you are live and it can take a few minutes for it to join after you go live. This is currently a limitation on YouTube due to rate limits on YouTube's API.
+Nightbot for YouTube Gaming will only join your channel when live and can take a few minutes to join. This limitation is due to rate limits on YouTube's API.
 
-Youtube uses a another way to send and receive messages and because of these limitation it will take Nightbot some time to receive your message. The more active your chat is the faster the response. If your chat is inactive/slow, it could take Nightbot 2 minutes to respond due to polling limitations. 
+It can take Nightbot up to 2 minutes to receive a message if your chat is slow or inactive. The more active your chat, the sooner Nightbot can read and respond to a command.
 
-Both of these limitations cannot be worked around. If Nightbot still isn't joining your channel, it's either not a moderator in your channel or he is banned from your channel.
+Both of these limitations cannot be worked around. If Nightbot still isn't joining your channel, it's either not a moderator or is banned from your channel.
+
+**Note:** Spamming the Join/Part button in the Control Panel will just cancel the join operation and results in longer join times.
 
 ### My Playlist was deleted and I can't find it. How do I get it back?
 
-Navigate to the [AutoDJ settings](https://beta.nightbot.tv/song_requests) and under the **General** Header change the **Playlist** setting to **Channel**. Your playlist can be edited in the [Playlist](https://beta.nightbot.tv/song_requests/playlist) page.
+Navigate to the [AutoDJ settings](https://beta.nightbot.tv/song_requests) and under the **General** Header change the **Playlist** setting to **Channel**. Personal playlists can be edited in the [Playlist](https://beta.nightbot.tv/song_requests/playlist) page.
 
-If the above doesn't show your playlist please use the [Contact Form](https://nightdev.com/contact/) as you playlist may not have transfered correctly.
+If the above doesn't show your playlist please use the [Contact Form](https://nightdev.com/contact/) as your playlist may not have transfered correctly.
 
-### Why do I get songs in AutoDJ that I can't delete? Why can't it be my playlist instead?
+### Why do I get songs in AutoDJ that can't be deleted?
 
-This is because you have another playlist active in the AutoDJ settings. Please refer to the question above to change this.
+There is another playlist active in the AutoDJ settings. Please refer to the previous question to change this.
 
 ### How do I get the current song to display on OBS/XSpilt?
 
-In order to achieve this you need to use the [Nightbot Application](https://docs.nightbot.tv/app-beta). This will create a text file with the current song playing in the `%USERPROFILE%\Documents\Nightbot\` location on Windows and in the `/Users/USERNAME/Documents/Nightbot/` on OSX. At the current time there is no way to edit the output of the song, this will be added in the future releases.
+Download and install the [Nightbot Application](https://docs.nightbot.tv/app-beta). Upon running song request, a text file is created with the current song in the `%USERPROFILE%\Documents\Nightbot\` location for Windows and in the `/Users/USERNAME/Documents/Nightbot/` for OSX. At the current time there is no way to edit the output of the song, this will be added in the future releases.
 
 ### This isn't working and it should be. This should be added to Nightbot!
 
-While that isn't a question, we are always looking to fix bugs and improve Nightbot. Without reporting bugs they often go unnoticed. Contact us using the [Contact Form](https://nightdev.com/contact/), posting on the [Nightbot forum](https://community.nightdev.com/c/nightbot) or even on Twitter at [@nightbotapp](https://twitter.com/nightbotapp). If you have a feature you think should be added, tell us on the forum! We're always looking for ways to improve Nightbot. 
+We are always looking to fix bugs and improve Nightbot, unreported bugs often go unnoticed. Contact us using the [Contact Form](https://nightdev.com/contact/), posting on the [Nightbot forum](https://community.nightdev.com/c/nightbot) or on Twitter at [@nightbotapp](https://twitter.com/nightbotapp). If there is a feature you think should be added, tell us on the forum. We're always looking for ways to improve Nightbot. 

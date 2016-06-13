@@ -3,21 +3,20 @@ Title: AutoDJ
 Sort: 4
 */
 
-AutoDJ is the player for Song Requests in your Stream. [AutoDJ](https://beta.nightbot.tv/song_requests) as includes various settings that allows for how you want Song Request in your stream.
+AutoDJ is the player for running Song Requests. [AutoDJ](https://beta.nightbot.tv/song_requests) also includes various settings that allows for a more customizable Song Request.
 
 ## Usage
 
-After heading over to the [AutoDJ](https://beta.nightbot.tv/song_requests), the page contains Song Request settings, a music player with media contols and a queue of songs. The controls at the top of the page are as follows: 
+The [AutoDJ](https://beta.nightbot.tv/song_requests) page contains Song Request settings, a music player with media controls, and a queue of upcoming songs. The controls at the top of the page are as follows: 
 
 - *Enable & Disable* - This setting will enable or disable new requests from being put in the queue.
 - *Clear Queue* - Will clear all songs current in the queue.
-- *Add Song* - Will open a popout were you can enter a direct url (from soundcloud, youtube) or a term to search for (the closest match is chosen, and the search is performed under the Search Provider in the settings).
-- *Settings* - *explained below*
+- *Add Song* - Will open a popup were you can enter a direct url (from SoundCloud or Youtube) or search term for the defined Search Provider.
 
 
 ### Settings
 
-The Settings control opens a popout where all settings are divided into three categories. These settings can only be changed in the Control Panel by you or your managers.
+The Settings control opens a popup where all settings are divided into three categories. These settings can only be changed in the Control Panel.
 
 #### General
 
@@ -42,7 +41,7 @@ This category is dedicated to [YouTube](https://www.youtube.com) available contr
 
 ### Player Controls & Song Information
 
-The music player will change automaticly in accordance to the Providers you have selected in the Settings. For example from, YouTube to SoundCloud, depending on the requested song site.
+The music player will change automatically in accordance to the Providers you have selected in the Settings. For example from, YouTube to SoundCloud, depending on the requested song site.
 
 #### Controls
 
@@ -63,7 +62,7 @@ The music player will also give the following information while the song is curr
 
 ### Queue
 
-Below the player and controls lays the queue where AutoDJ will display the upcoming songs.
+Below the player and controls lays the queue where AutoDJ displays the upcoming songs.
 
 Using the gray up arrow icon you can promote a song to be first in the queue. To delete upcoming songs use the red trash icon on the right of the entry. Both of these can also be done with the [!songs](https://docs.nightbot.tv/commands/songs) command.
 

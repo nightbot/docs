@@ -3,7 +3,7 @@ Title: AutoDJ
 Sort: 4
 */
 
-AutoDJ is the player for running Song Requests. [AutoDJ](https://beta.nightbot.tv/song_requests) also includes various settings that allows for a more customizable Song Request.
+AutoDJ is the player responsible for Song Requests with Nightbot.
 
 ## Usage
 
@@ -41,7 +41,7 @@ This category is dedicated to [YouTube](https://www.youtube.com) available contr
 
 ### Player Controls & Song Information
 
-The music player will change automatically in accordance to the Providers you have selected in the Settings. For example from, YouTube to SoundCloud, depending on the requested song site.
+The music player will change automatically in accordance to the selected Providers in the Settings. For example from, YouTube to SoundCloud, depending on the requested song site.
 
 #### Controls
 
@@ -66,4 +66,4 @@ Below the player and controls lays the queue where AutoDJ displays the upcoming 
 
 Using the gray up arrow icon you can promote a song to be first in the queue. To delete upcoming songs use the red trash icon on the right of the entry. Both of these can also be done with the [!songs](https://docs.nightbot.tv/commands/songs) command.
 
-Gray colored entries are playlist entries picked in the Settings. The playlist will play if the queue is empty and will allow newly requested songs to be played next.
+Gray colored songs in the queue are playlist entries set in the Settings. The playlist will play if the queue is empty and will allow newly requested songs to be played next.

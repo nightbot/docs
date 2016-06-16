@@ -9,7 +9,7 @@ Here are the most common questions we get asked, all on one page. For additional
 
 Nightbot for YouTube Gaming will only join your channel when live and can take a few minutes to join. This limitation is due to rate limits on YouTube's API.
 
-It can take Nightbot up to 2 minutes to receive a message if your chat is slow or inactive. The more active your chat, the sooner Nightbot can read and respond to a command.
+It can take Nightbot up to 2 minutes to receive messages if your chat is slow or inactive. The more active your chat, the sooner Nightbot can read and respond to a command.
 
 Both of these limitations cannot be worked around. If Nightbot still isn't joining your channel, it's either not a moderator or is banned from your channel.
 
@@ -27,7 +27,7 @@ There is another playlist active in the AutoDJ settings. Please refer to the pre
 
 ### How do I get the current song to display on OBS/XSpilt?
 
-Download and install the [Nightbot Application](https://docs.nightbot.tv/app-beta). Upon running song request, a text file is created with the current song in the `%USERPROFILE%\Documents\Nightbot\` location for Windows and in the `/Users/USERNAME/Documents/Nightbot/` for OSX. At the current time there is no way to edit the output of the song, this will be added in the future releases.
+Download and install the [Nightbot Application](https://docs.nightbot.tv/app-beta). Upon running song request, a text file is created with the current song in the `%USERPROFILE%\Documents\Nightbot\` location for Windows and in `/Users/USERNAME/Documents/Nightbot/` for OSX. At the current time there is no way to edit the output of the song, this will be added in the future releases.
 
 ### This isn't working and it should be. This should be added to Nightbot!
 

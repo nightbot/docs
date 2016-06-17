@@ -21,7 +21,7 @@ In the top right corner of the panel, click the blue Add button which will open 
 
 - *Name* - This is your timer name. This has no real significance but to give you a quick reference to what your timer does. Ex. Twitter Message
 
-- *Message* - What do you want your timer's message to say when it gets shown in the chat? You can use [Variables](https://docs.nightbot.tv/commands/variables) in your messages to make dynamic messages.
+- *Message* - What do you want your timer's message to say when it gets shown in the chat? [Custom Variables](https://docs.nightbot.tv/commands/variables) can also be used to make dynamic messages.
 
 - *Interval* - Move the slider to the desired amount of time before the timer repeats. For example, 15 minute intervals will activate at 2:00, 2:15, 2:30, etc.
 
@@ -33,15 +33,15 @@ In the top right corner of the panel, click the blue Add button which will open 
 
 ### Managing Timers
 
-On the Panel screen you will see a list of all timers you have created. All displaying their current status, timer name, timer message, and action buttons. 
+The Panel screen lists all timers; displaying their current status, name, message, and action buttons. 
 
 #### Action Buttons
 
-- *Disable/Enable* - The Disable/Enable button can be used to turn off and on your timers. This will change the far left column status after clicking.
+- *Disable/Enable* - Can be used to turn off and on your timers. This will change the far left column status after clicking.
 
-- *Edit* - The Edit button will re-open the popup to edit current timers. Be sure to hit Submit to save changes otherwise changes will be lost.
+- *Edit* - Reopen the popup to edit current timers. Be sure to hit Submit to save changes otherwise changes will be lost.
 
-- *Delete* - The Delete button will prompt you to confirm that you want to remove your timer.
+- *Delete* - The Delete button will open a prompt to remove that timer.
 
 ### Tips
 

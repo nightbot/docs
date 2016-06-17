@@ -13,7 +13,7 @@ Regulars can be added and removed on the [Regulars](https://beta.nightbot.tv/reg
 
 Head over to the [Regulars](https://beta.nightbot.tv/regulars) page.
 
-In the top right corner of the panel, click the blue Add User button which will open up a popup allowing you to add a user as a regular.
+In the top right corner of the panel, clicking the Add User button which will open up a popup allowing you to add a user as a regular.
 
 #### Settings
 

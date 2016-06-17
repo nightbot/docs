@@ -23,6 +23,6 @@ To remove a manager simply click the delete button next to the user. Accepting t
 
 ### Accessing a Channel as Manager
 
-To access a channel you manager, simply click the icon of your profile image in the top right of the page. 
+To access a channel you manage, simply click the icon of your profile image in the top right of the page. 
 
 This will show different channels you can access, including your own. The profile image of the current channel will overlay the image icon. **If you don't see the right channel, the owner incorrectly added you as a manager.**

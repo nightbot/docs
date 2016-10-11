@@ -28,8 +28,8 @@ Nightbot sends request headers that contain pertinent information of the user ca
 
 ### Example Headers
 
-`Nightbot-Response-Url: https://api.nightbot.tv/1/channel/send/TVRRM05UazRNVGsyT1RnNE1TOWthWE5qYjNKa0x6VTJOekl5TkdabE9URXhOV0V6T0dZMU1URTBZV013WlM4eE16a3lNelkxTkRjMk1UTTFOVFkzTXpZdk1UTTVNak0yTnpBME9UUTFPVFl6TURBNDo5ZmFlNjM5ODI4NmFkMmM0NDk1ZjkxYjk2MTQyMWI5ZDI0Y2EwYjRlZDA3NTIzNTE1MjU4ZWIzZDI0ZGEwNTRl`
-
-`Nightbot-User: name=night&displayName=night&provider=twitch&providerId=11785491&userLevel=owner`
-
-`Nightbot-Channel: name=night&displayName=Night&provider=twitch&providerId=11785491`
+```
+Nightbot-Response-Url: https://api.nightbot.tv/1/channel/send/TVRRM05UazRNVGsyT1RnNE1TOWthWE5...
+Nightbot-User: name=night&displayName=night&provider=twitch&providerId=11785491&userLevel=owner
+Nightbot-Channel: name=night&displayName=Night&provider=twitch&providerId=11785491
+```

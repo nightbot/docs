@@ -7,3 +7,13 @@ The querystring variable prints anything a user types after a command, but in ur
 ## Usage
 
 > $(querystring)
+
+The querystring also accepts arguments that will return a url-encoded string.
+
+## Alternate Useage
+
+> $(querystring $(twitch $(channel) "{{url}}"))
+
+will return
+
+> https%3A%2F%2Fwww.twitch.tv%2Fnight

@@ -5,6 +5,8 @@ Sort: 4
 
 The !filters command allows you and your moderators to edit existing Nightbot filters. For managing filters in the control panel please see [Spam Protection](https://docs.nightbot.tv/control-panel/spam-protection).
 
+In order to use the [!permit command](https://docs.nightbot.tv/spam-protection/links) the !filters command must be enabled.
+
 ## Selecting Spam Filter
 
 ### Usage

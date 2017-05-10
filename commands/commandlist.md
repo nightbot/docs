@@ -14,6 +14,7 @@ These are the default commands for Nightbot. Find out more information about eac
   * `delete` - Delete existing Custom Command from Nightbot
 * `!commercial` - Run a Commercial for Specified Duration  [[*more info*](https://docs.nightbot.tv/commands/commercial)]
 * `!filters` - Manage existing Spam Protection Filters  [[*more info*](https://docs.nightbot.tv/commands/filters)]
+* `!permit` - Allows User to Temporarily Post Links [[*more info*](https://docs.nightbot.tv/spam-protection/links)]
 * `!game` - Show Current Game for that Channel  [[*more info*](https://docs.nightbot.tv/commands/game)]
   * `<game>` - Set Current Game for that Channel
 * `!poll`  [[*more info*](https://docs.nightbot.tv/commands/poll)]

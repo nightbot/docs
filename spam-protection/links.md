@@ -25,6 +25,16 @@ Clicking the Options button will open a popout that you can customize filter set
 
 - *Custom Message* - This sets a custom message to be displayed to users when they are punished from the links filter. Leaving this blank will use the default messages, which are randomly chosen Duke Nukem quotes.
 
+### Permitting Links
+
+Users can be temporarily permitted to post a link using the !permit command. The [!filters command](https://docs.nightbot.tv/commands/filters) needs to be enabled for the !permit to function.
+
+#### Usage
+
+> !permit night
+
+will allow the user night to post links for the duration of 60 seconds.
+
 ### Managing Links
 
 All filters can be managed through the [Spam Protection menu](https://beta.nightbot.tv/spam_protection) or through the [!filters command](https://docs.nightbot.tv/commands/filters).

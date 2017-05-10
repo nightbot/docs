@@ -3,7 +3,7 @@ Title: Managers
 Sort: 6
 */
 
-Managers are postions that can allow users to fully access your Nightbot through the control panel. Managers have the power to control everything with Nightbot in your channel. Because of this, *managers should only be users you trust*. 
+Managers are positions that can allow users to fully access your Nightbot through the control panel. Managers have the power to control everything with Nightbot in your channel. Because of this, *managers should only be users you trust*. 
 
 ## Usage
 
@@ -11,11 +11,11 @@ Managers can be handled in the [Managers](https://beta.nightbot.tv/account/manag
 
 ### Adding a Manager 
 
-In order to add a user as a manager you are going to need to get that user's Nightbot ID code. This can be found in the upper right of the [Managers](https://beta.nightbot.tv/account/managers) page.
+In order to add a user as a manager, you are going to need to get that user's Nightbot ID code. This can be found in the upper right of the [Managers](https://beta.nightbot.tv/account/managers) page.
 
 1. Start by heading over to the [Manager settings](https://beta.nightbot.tv/account/managers).
 2. Clicking the Add Manager button will open a popout to enter a Nightbot User ID Code. *This is not a profile username!* (ex. `5570cbd62115a35f5124aqf2`)
-3. After clicking submit, that user is successfully added as a manager to your channel.
+3. After clicking submit, that user is successfully added as a manager of your channel.
 
 ### Removing a Manager
 

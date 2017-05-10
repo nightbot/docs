@@ -21,7 +21,7 @@ In the top right corner of the panel, clicking the Add User button which will op
 
 ### Managing Regulars
 
-On the panel screen you will see a list of all regulars you have created.
+On the panel screen, you will see a list of all regulars you have created.
 
 #### Action Button
 

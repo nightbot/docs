@@ -33,7 +33,7 @@ will delete the song at the current `queue_postion`.
 
 > !songs delete 2
 
-will delete the song in the 2nd postion and return
+will delete the song in the 2nd position and return
 
 > Night -> The song has been removed.
 
@@ -59,7 +59,7 @@ will return the response
 
 > !songs playlist
 
-will return a link to the channels playlist
+will return a link to the channel's playlist
 
 ### Example
 
@@ -111,7 +111,7 @@ In the case of search terms
 
 will search YouTube for a video with the closest name if the channel configured YouTube as the search provider. 
 
-**Note**: When entering the video ID only the standalone ID will work. No additional charaters can be added, for example `!songs request /watch?v=ngzC_8zqInk` and `!songs request ?v=ngzC_8zqInk` will result in an error.
+**Note**: When entering the video ID only the standalone ID will work. No additional characters can be added, for example `!songs request /watch?v=ngzC_8zqInk` and `!songs request ?v=ngzC_8zqInk` will result in an error.
 
 ### SoundCloud
 
@@ -183,7 +183,7 @@ will play the music player (if it's open and paused)
 
 > !songs promote `queue_postion`
 
-will move the song in the `queue_postion` to postion 1; the next song.
+will move the song in the `queue_postion` to position 1; the next song.
 
 ## Editing Song Volume
 

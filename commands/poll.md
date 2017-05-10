@@ -11,9 +11,9 @@ The !poll command allows you and your moderators to easily create polls using [S
 
 > !poll new `title` | `option 1` | `option 2`
 
-`title` is main title of your poll.
+`title` is the main title of your poll.
 
-`options` are the indivual options your users can vote for spilt by a vertical bar `|`, 2 options are required, however a maximum of 30 can be added.
+`options` are the individual options your users can vote for. Split by a vertical bar `|`, 2 options are required, however, a maximum of 30 can be added.
 
 ### Example
 
@@ -37,4 +37,4 @@ This command will output the most recent poll's results
 
 will return
 
-> StrawPoll Results: yes: 5 vote, no: 3 votes, maybe: 4 votes
+> StrawPoll Results: yes: 5 votes, no: 3 votes, maybe: 4 votes

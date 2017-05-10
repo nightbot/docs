@@ -28,7 +28,7 @@ would result in
 
 > night
 
-if the current executer of the command was night
+if the current executor of the command was night
 
 ## Examples
 

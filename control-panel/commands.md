@@ -40,7 +40,7 @@ You can disable commands you do not wish to use by clicking on the "Disable" but
 
 There is also an options button that will allow you to change the userlevel and cooldown of default commands.
 
-- *Userlevel* - Selects who has the permission to execute the command. For example, selecting “Regulars” allows users in your channel's regular list the permission to use the command. Larger channels may want Userlevel set to Regulars or above.
+- *Userlevel* - Selects who has the permission to execute the command. For example, selecting “Regulars” allows users in your channel's regular list the permission to use the command. Larger channels may want the Userlevel set to Regulars or above.
 
 - *Cooldown* - Time minimum amount of time between command uses (to prevent the command from spamming the chat)
 
@@ -56,11 +56,11 @@ To create custom commands, click on the "Add Command" button on your [commands p
 
 Then, fill in the form with your desired command name, message, userlevel, and cooldown.
 
-- *Command* - Generally speaking, commands are usually prefixed with exclamation points. They can in fact be anything you would like, or even none at all. Command names are not allowed to contain spaces.
+- *Command* - Generally speaking, commands are usually prefixed with exclamation points. They can, in fact, be anything you would like, or even none at all. Command names are not allowed to contain spaces.
 
 - *Message* - The response of the command. You can use [Variables](https://docs.nightbot.tv/commands/variables) in your messages to make dynamic messages.
 
-- *Userlevel* - Selects who has the permission to execute the command. For example, selecting “Regulars” allows users in your channel's regular list the permission to use the command. Larger channels may want Userlevel set to Regulars or above.
+- *Userlevel* - Selects who has the permission to execute the command. For example, selecting “Regulars” allows users in your channel's regular list the permission to use the command. Larger channels may want the Userlevel set to Regulars or above.
 
 - *Cooldown* - Time minimum amount of time between command uses (to prevent the command from spamming the chat)
 

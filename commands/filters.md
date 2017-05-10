@@ -5,6 +5,8 @@ Sort: 4
 
 The !filters command allows you and your moderators to edit existing Nightbot filters. For managing filters in the control panel please see [Spam Protection](https://docs.nightbot.tv/control-panel/spam-protection).
 
+In order to use the [!permit command](https://docs.nightbot.tv/spam-protection/links) the !filters command must be enabled.
+
 ## Selecting Spam Filter
 
 ### Usage
@@ -50,7 +52,7 @@ These examples show an assortment of different use cases for the !filter command
 
 > !filters caps limit 8
 
-will change the current limit of caps before timeout to 8
+will change the current limit of caps to 8
 
 > !filters links message No Links!
 
@@ -58,5 +60,4 @@ will change the links timeout message to "No Links!"
 
 > !filters symbols disable
 
-will disable the symbols filter timeout functionality entirely
-
+will disable the symbols filter

@@ -2,7 +2,7 @@
 Title: Eval
 */
 
-The Eval variable is used to evaluate JavaScript code. The timeout length of the script execution is 2 seconds. 
+The Eval variable is used to evaluate JavaScript code. The timeout length of the script execution is 1 second. 
 
 ## Usage
 

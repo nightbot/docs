@@ -52,7 +52,7 @@ These examples show an assortment of different use cases for the !filter command
 
 > !filters caps limit 8
 
-will change the current limit of caps before timeout to 8
+will change the current limit of caps to 8
 
 > !filters links message No Links!
 
@@ -60,5 +60,4 @@ will change the links timeout message to "No Links!"
 
 > !filters symbols disable
 
-will disable the symbols filter timeout functionality entirely
-
+will disable the symbols filter

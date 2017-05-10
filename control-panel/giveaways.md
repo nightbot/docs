@@ -7,7 +7,7 @@ Nightbot Giveaways can be used a variety of different ways. This page is to simp
 
 ## The Basics
 
-Upon entering the [Giveaways](https://beta.nightbot.tv/giveaways) page you are presented with an Eligibility List, a Giveaway Panel and a chat window.
+Upon entering the [Giveaways](https://beta.nightbot.tv/giveaways) page you are presented with an Eligibility List, a Giveaway Panel, and a chat window.
 
 ### Eligibility List
 
@@ -27,7 +27,7 @@ Nightbot currently offers three different types of giveaways to choose from.
 
 - *Active User* - Will select a user in the eligibility list that has chatted in the defined time length.
 
-- *Keyword* - Allows users to enter by entering a set keyword. Anti Spam options to make users ineligible after already saying the keyword. *Note: * Changing Keywords will reset all users eligibility.
+- *Keyword* - Allows users to enter by entering a set keyword. Anti-Spam options to make users ineligible after already saying the keyword. *Note: * Changing Keywords will reset all users eligibility.
 
 - *Random Number* - Will generate a random number between two picked numbers. The first user to say the number generated is the winner.
 
@@ -37,4 +37,4 @@ Subscribers and Regulars can be selected to have more entries using the luck sli
 
 ### Winners!
 
-Once a user has won any giveaway their profile image will be displayed with options to visit their Twitch page and a link to send a Twitch Direct Message. The Giveaway Panel is replaced with their chat and a timer to mark inactivity. 
+Once a user has won any giveaway their profile image will be displayed with options to visit their channel page and a link to send a Direct Message. The Giveaway Panel is replaced with their chat and a timer to mark inactivity. 

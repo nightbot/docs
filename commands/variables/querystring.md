@@ -2,7 +2,7 @@
 Title: QueryString
 */
 
-The querystring variable prints anything a user types after a command, but in url-encoding. This is useful when combined with the urlfetch variable in cases where data is being passed to a server via querystring.
+The querystring variable prints a url-encoded string of the user's text after a command. This is useful when combined with the urlfetch variable in cases where data is being passed to a server via querystring.
 
 ## Usage
 
@@ -10,7 +10,7 @@ The querystring variable prints anything a user types after a command, but in ur
 
 The querystring also accepts arguments that will return a url-encoded string.
 
-## Alternate Useage
+## Alternate Usage
 
 > $(querystring $(twitch $(channel) "{{url}}"))
 

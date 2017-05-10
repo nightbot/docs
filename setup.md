@@ -9,8 +9,6 @@ This page's purpose is a general guide for new users who want to use Nightbot. T
 
 This new version of Nightbot has been vastly improved with an easier design, faster response time, and better stability. New features range from running song request from [Spotify](https://docs.nightbot.tv/app-beta) to more [Custom Variables](https://docs.nightbot.tv/commands/variables) to customize commands.
 
-Welcome to the new and improved Nightbot!
-
 ### Sign in & Dashboard
 
 To begin head to the [Nightbot Homepage](https://beta.nightbot.tv/) and sign in using the service you intend to use Nightbot with. Upon granting access you are directed to the Nightbot Control Panel.
@@ -21,13 +19,13 @@ The Control Panel is the central hub to controlling Nightbot. The Dashboard also
 
 On the Dashboard, click the Join Button on the top-right of the page to have Nightbot join your channel. You will then have a popout with instructions for making Nightbot a moderator in your channel. 
 
-**For YouTube:** Nightbot for YouTube will only join your channel when you are live. This is currently due to rate limits on YouTube's API.
+**For YouTube:** Nightbot for YouTube will only join your channel when you are live and your stream is public. This is currently due to rate limits on YouTube's API.
 
 ### Custom Commands
 
 After adding Nightbot, you can now begin with creating custom commands. Custom commands are an important part of any stream, making information easier to access. Commands are managed in the [Custom Command](https://beta.nightbot.tv/commands/custom) page in the  Control Panel.
 
-When adding a command you will need a command name (usually leading with a exclamation mark) and a command response. [Custom Variables](https://docs.nightbot.tv/commands/variables) can customize your commands with features like Click-To-Tweet links or displaying the weather of a location.
+When adding a command you will need a command name (usually leading with an exclamation mark) and a command response. [Custom Variables](https://docs.nightbot.tv/commands/variables) can customize your commands with features like Click-To-Tweet links or displaying the weather of a location.
 
 Commands can also be managed using the [!commands](https://docs.nightbot.tv/commands/commands) command.
 
@@ -37,9 +35,9 @@ The [Timers](https://beta.nightbot.tv/timers) page contains configurable timers 
 
 ### Regulars
 
-Regulars are those users that you feel are above the new users. You may want regulars to be ignored when dealing with Spam Filters or you might want regulars to have access to certain commands.
+Regulars are users who are more privileged than normal users. You may want regulars to be ignored when dealing with Spam Filters or you might want them to have access to certain commands.
 
-The solution is for you to add users as Regulars into Nightbot. Users can be managed in the [Regulars](https://beta.nightbot.tv/regulars) page, just click the Add User button and enter the Username. Those users are now defined as a regular of the channel and you can filter separate user specific commands around them.
+The solution is for you to add users as Regulars into Nightbot. Users can be managed in the [Regulars](https://beta.nightbot.tv/regulars) page, just click the Add User button and enter the Username. Those users are now defined as a regular of the channel and you can filter separate user-specific commands around them.
 
 This can also be done by using the [!regulars command](https://docs.nightbot.tv/commands/regulars).
 
@@ -57,4 +55,4 @@ Spam Filters within Nightbot can help deal with users who spam. Offering filters
 
 ---
 
-More in-depth information about the topics here can be found throughout the Nightbot Documentation. Reach out to us on the [forums](https://community.nightdev.com/c/nightbot) for any questions. Thanks for choosing Nightbot as your chat moderation bot!
+More in-depth information about the topics here can be found throughout the Nightbot Documentation. Reach out to us on the [forums](https://community.nightdev.com/c/nightbot) for any questions. 

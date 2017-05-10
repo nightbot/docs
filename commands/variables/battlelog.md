@@ -16,7 +16,7 @@ The Battlelog variable has two actions that you can perform: **stats** and **sta
 
 `game` is the game the stats are being looked up for (values can be `bf3`, `bf4`, `bfh`, and `mohw`)
 
-`username` is the username being looked up on the specied platform
+`username` is the username being looked up on the specified platform
 
 #### Example Usage
 

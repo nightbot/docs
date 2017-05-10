@@ -3,7 +3,7 @@ Title: !commercial
 Sort: 12
 */
 
-The !commercial command will run a commercial for a specified length. This command will only work if your a channel is partnered. 
+The !commercial command will run a commercial for a specified length. This command will only work if your channel is partnered. 
 
 ## Usage
 

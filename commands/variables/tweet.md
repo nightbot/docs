@@ -22,4 +22,4 @@ would result in
 
 #### Adding a command to let viewers tweet out your stream
 
-> !commands add !tweet $(tweet Come watch @`TwitterUser` while they play $(twitch $(channel) "{{game}}") on Twitch! http://www.twitch.tv/$(channel))
+> !commands add !tweet $(tweet Come watch @`TwitterUser` while they play $(twitch $(channel) "{{game}} on Twitch! {{url}}"))

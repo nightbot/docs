@@ -16,11 +16,11 @@ Check out the Custom APIs sub-forum on our Community Forum: https://community.ni
 
 ## Advanced Usage
 
-Nightbot sends request headers that contain pertinent information of the user calling the command, the channel the command was called and and a response URL to POST a response.
+Nightbot sends request headers that contain pertinent information of the user calling the command, the channel the command was called, and a response URL to POST a response.
 
 ### Headers
 
-`Nightbot-Response-Url` - A response link where responses can be send with a POST request without prior authorization. See [/channel/send](https://api-docs.nightbot.tv/#send-channel-message) in the API docs.
+`Nightbot-Response-Url` - A response link where responses can be sent with a POST request without prior authorization. See [/channel/send](https://api-docs.nightbot.tv/#send-channel-message) in the API docs.
 
 `Nightbot-User` - User data of the user who used the command that triggered the urlfetch. **Note:** This header is **not** sent when the urlfetch is called from a timer.
 

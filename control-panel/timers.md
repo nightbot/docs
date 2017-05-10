@@ -3,7 +3,7 @@ Title: Timers
 Sort: 6
 */
 
-Nightbot Timers have the ability to send messages on specific intervals. They are frequently used for social media links an general chat notifications.
+Nightbot Timers have the ability to send messages at specific intervals. Frequently used for social media links and general chat notifications.
 
 ## Usage
 
@@ -45,6 +45,6 @@ The Panel screen lists all timers; displaying their current status, name, messag
 
 ### Tips
 
-- **Less is More** - Keep your amount of timers and the length between timers showing reasonable. Chatters do not like being spammed.
+- **Less is More** - Keep your amount of timers and the length between timers showing reasonable. Users do not like being spammed.
 
 - **Change them up** - Don't be afraid to change a timers message, either to new changes such as a Twitter post or a link to a shirt your trying to advertise, change the content frequently. And with [Variables](https://docs.nightbot.tv/commands/variables) you can set messages that update automatically.

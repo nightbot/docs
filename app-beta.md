@@ -7,8 +7,8 @@ In order to provide some extra functionality to song requests, we've created a s
 
 ## Download
 
-* [Windows v0.0.5](https://beta.nightbot.tv/dl/nightbot_v0.0.5_win.exe)
-* [OSX v0.0.5](https://beta.nightbot.tv/dl/nightbot_v0.0.5_osx.zip)
+* [Windows v0.0.6](https://beta.nightbot.tv/dl/nightbot_v0.0.6_win.exe)
+* [OSX v0.0.6](https://beta.nightbot.tv/dl/nightbot_v0.0.6_osx.zip)
 
 ## Current Song Output
 

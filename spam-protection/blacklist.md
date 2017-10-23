@@ -15,6 +15,18 @@ To add words and phrases to Nightbot's Blacklist head over to the [Spam Protecti
 
 Clicking the Options button will open a popout that you can customize blacklist settings.
 
+## Advanced Usage
+
+### Regex
+
+The blacklist filter also supports regular expressions (regex) for more filtering options. You can enter a regex expression with the pattern below.
+
+> `~/[pattern]/[flags]`
+
+### Example
+
+`~/(\d{3}[-.])?\d{3}[-.]\d{4}/` will blacklist any like looking phone numbers such as 253.532.8757 and 321-2345.
+
 #### Options
 
 - *Blacklist* - This is the text box of filtered words and phrases you wish to blacklist. Entering one entry per line. You can use an asterisk (\*) as a wildcard character to dynamically filter words and phrases. For example, `test*` blocks `test`, `testing`, `testerino`, etc.

@@ -3,7 +3,7 @@ Title: Nightbot App Beta
 Sort: 2
 */
 
-In order to provide some extra functionality to song requests, we've created a small app for Windows and OSX. With this app, you'll be able to show the current song in your streaming software (OBS/XSplit/etc.), use hotkeys for song requests, and use Spotify for song requests.
+In order to provide some extra functionality to song requests, we've created a small app for Windows and OSX. With this app you'll be able to show the current song in your streaming software (such as OBS) and use hotkeys for song requests.
 
 ## Download
 
@@ -30,11 +30,7 @@ We have added global hotkeys to make controlling song requests when streaming ea
 
 ## Spotify
 
-To use Spotify, simply open Spotify **before** launching the Nightbot app and then head to the song requests player within the app. Then, open the song requests settings and enable Spotify under the "Providers" setting and optionally set Spotify as the "Search Provider" to let users search for music by name/artist through Spotify. Spotify must remain open in order for music to remain playing.
-
-**Volume cannot be changed within the control panel for Spotify, only within Spotify's player.** This is a limitation that cannot be worked around, unfortunately.
-
-**If you're having issues getting Spotify to work and use antivirus/firewall software (like AVG), it might be blocking Spotify from opening ports that the Nightbot app needs to access for this feature. Try disabling your antivirus to see if that fixes the issue, and if so, add an exception for Spotify in your antivirus/firewall.**
+Unfortunately Spotify has discontinued the RPC API we were using to control Spotify, so support for it has been removed. Due to licensing issues it's unlikely Spotify integration will return.
 
 ### Copyright FYI
 

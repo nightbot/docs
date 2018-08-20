@@ -7,11 +7,11 @@ The !songs command is used to manage Song Requests within Nightbot. **Note**: Ma
 
 ## Viewing Current Song
 
-### Usage 
+### Usage
 
 > !songs current
 
-will display the title of the current song. 
+will display the title of the current song.
 
 ### Example
 
@@ -23,7 +23,7 @@ will display the current song
 
 ## Deleting Queued Song
 
-### Usage 
+### Usage
 
 > !songs delete `queue_postion`
 
@@ -39,7 +39,7 @@ will delete the song in the 2nd position and return
 
 ## Getting List of Songs
 
-### Usage 
+### Usage
 
 > !songs list
 
@@ -71,7 +71,7 @@ will return the response
 
 ## Getting Next Song
 
-### Usage 
+### Usage
 
 > !songs next
 
@@ -87,7 +87,7 @@ will display the next song
 
 ## Requesting a Song
 
-### Usage 
+### Usage
 
 > !songs request `Youtube or SoundCloud Link / Search Term`
 
@@ -109,7 +109,7 @@ In the case of search terms
 
 > !songs request Arctic Monkeys - R U Mine?
 
-will search YouTube for a video with the closest name if the channel configured YouTube as the search provider. 
+will search YouTube for a video with the closest name if the channel configured YouTube as the search provider.
 
 **Note**: When entering the video ID only the standalone ID will work. No additional characters can be added, for example `!songs request /watch?v=ngzC_8zqInk` and `!songs request ?v=ngzC_8zqInk` will result in an error.
 
@@ -127,27 +127,10 @@ In the case of search terms
 
 will search SoundCloud for a track with the closest name if the channel configured SoundCloud as the search provider.
 
-### Spotify
-
-Spotify songs can be requested through the Track Link or with the Spotify URI code (examples below).
-
-**Notice:** Spotify requests can only be played if the streamer is using the [Nightbot Beta App](https://docs.nightbot.tv/app-beta) has **correctly configured** use with Spotify. If you wish to use Spotify as a streamer, please also read about [Spotify limitations](https://docs.nightbot.tv/app-beta#spotify).   
-
-#### Usage
-
-> !songs request https://open.spotify.com/track/1FMm3wG5WOhi7js35KR7Ea
-
-> !songs request spotify:track:1FMm3wG5WOhi7js35KR7Ea
-
-In the case of search terms
-
-> !songs request You're Gonna Go Far, Kid - The Offspring
-
-will search Spotify for a track with the closest name if the channel configured Spotify as the search provider.
 
 ## Skipping Current Song
 
-### Usage 
+### Usage
 
 > !songs skip
 
@@ -163,7 +146,7 @@ will the skip current song and return
 
 ## Pausing Current Song
 
-### Usage 
+### Usage
 
 > !songs pause
 
@@ -171,7 +154,7 @@ will pause the music player (if it's open and playing)
 
 ## Playing Current Song
 
-### Usage 
+### Usage
 
 > !songs play
 
@@ -179,7 +162,7 @@ will play the music player (if it's open and paused)
 
 ## Promoting a Song
 
-### Usage 
+### Usage
 
 > !songs promote `queue_postion`
 
@@ -187,7 +170,7 @@ will move the song in the `queue_postion` to position 1; the next song.
 
 ## Editing Song Volume
 
-### Usage 
+### Usage
 
 > !songs volume `between 1 - 100`
 

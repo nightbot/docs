@@ -13,6 +13,18 @@ To view settings for Nightbot's links filter, head over to the [Spam Protection 
 
 Clicking the Options button will open a popout that you can customize filter settings.
 
+## Advanced Usage
+
+### Regex
+
+The links filter also supports regular expressions (regex) for more whitelist options. You can enter a regex expression with the pattern below.
+
+> `~/[pattern]/[flags]`
+
+### Example
+
+`~/i.imgur.com\/[\d\w]+.(png|jpg|gif)/i` will whitelist imgur direct links such as ([i.imgur.com/ghOCjsn.png](https://i.imgur.com/ghOCjsn.png)), but will not allow image links ([imgur.com/ghOCjsn](https://imgur.com/ghOCjsn)), gallery links, and album links ([imgur.com/a/Tkyl6](https://imgur.com/a/Tkyl6)).
+
 #### Options
 
 - *Link Whitelist* - This is the list of allowed links, entered one entry per line. You can allow entire websites (example: `youtube.com`) or specific links (example: `twitter.com/nightbotapp`).

@@ -20,7 +20,7 @@ would result in
 
 > $(eval for(;;){}) `(infinite loop)`
 
-would results in
+would result in
 
 > Script execution timed out.
 

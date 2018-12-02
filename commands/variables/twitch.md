@@ -32,6 +32,7 @@ would result in
 * *status* - offline, live, or playing a playlist
 * *title* - stream title
 * *game* - stream game
+* *tags* - stream tags
 * *createdAt* - date/time user account was created
 * *createdLength* - length of time user has been created (years, months, days, hours, minutes, seconds)
 * *viewers* - current number of live viewers

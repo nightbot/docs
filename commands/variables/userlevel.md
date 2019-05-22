@@ -22,6 +22,7 @@ if the current chat was nightdev's and nightdev called the command
 
 * **owner** - Channel Owner
 * **moderator** - Channel Moderator
+* **twitch_vip** - Twitch VIP (only for Twitch accounts)
 * **regular** - Nightbot Regular (users in the [regulars](https://docs.nightbot.tv/control-panel/regulars) list)
 * **subscriber** - Paid Channel Subscriber
 * **everyone** - Normal User *(default)*

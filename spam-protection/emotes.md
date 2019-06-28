@@ -17,7 +17,7 @@ Clicking the Options button will open a popout that you can customize filter set
 
 - *Timeout Length* - This is the maximum length of time Nightbot will timeout users for when being punished for this spam filter. Nightbot always issues a 5-second timeout for first offenses, and repeat offenses yield the length you select. The 600-second default value is equivalent to 10 minutes.
 
-- *Length* - This is the minimum number of emotes before Nightbot will punish the user for spamming. The default limit is 3 emotes. 
+- *Limit* - This is the minimum number of emotes before Nightbot will punish the user for spamming. The default limit is 3 emotes. 
 
 - *Exempt Userlevel* - This is the minimum required userlevel to be exempt from this filter. For example, if `regular` is set, regulars are able to use excessive emotes and not get punished. 
 

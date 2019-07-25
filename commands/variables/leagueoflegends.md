@@ -6,10 +6,13 @@ You can use the LeagueOfLegends variable to create commands that display rank in
 
 ## Usage
 
-> $(leagueoflegends `summoner_name` `region`)
+> $(leagueoflegends `summoner_name` `region` `queue`)
 
 `summoner_name` is the summoner name being looked up
-`region` is the region the summoner plays on
+
+`region` is the region the summoner plays on (values can be `br`, `eune`, `euw`, `jp`, `kr`, `lan`, `las`, `na`, `oce`, `tr`, `ru`, and `pbe`)
+
+`queue` is an optional parameter for the queue type to search for (values can be `ranked_tft`, `ranked_solo_5x5`, `ranked_flex_sr`, and `ranked_flex_tt`)
 
 #### Example Usage
 
@@ -17,13 +20,13 @@ You can use the LeagueOfLegends variable to create commands that display rank in
 
 would result in
 
-> testing's current rank: Challenger I
+> Testing's current rank: Silver III
 
 ## Examples
 
 #### Adding a command to show chatters your rank
 
-> !commands add !rank $(leagueoflegends `summoner_name` `region`)
+> !commands add !rank $(leagueoflegends `summoner_name` `region` `queue`)
 
 #### Adding a command to allow users in chat to lookup their own account
 

@@ -1,5 +1,5 @@
 /*
-Title: Nightbot App Beta
+Title: Nightbot App
 Sort: 2
 */
 
@@ -7,8 +7,8 @@ In order to provide some extra functionality to song requests, we've created a s
 
 ## Download
 
-* [Windows v0.1.2](https://beta.nightbot.tv/dl/nightbot_v0.1.2_win.exe)
-* [OSX v0.1.2](https://beta.nightbot.tv/dl/nightbot_v0.1.2_osx.zip)
+* [Windows v0.1.2](https://nightbot.tv/dl/nightbot_v0.1.2_win.exe)
+* [OSX v0.1.2](https://nightbot.tv/dl/nightbot_v0.1.2_osx.zip)
 
 ## Current Song Output
 
@@ -27,10 +27,6 @@ We have added global hotkeys to make controlling song requests when streaming ea
 * Play/Pause Toggle: `Play/Pause Media Key`
 * Volume Up: `Ctrl/Cmd` + `Shift` + `U`
 * Volume Down: `Ctrl/Cmd` + `Shift` + `D`
-
-## Spotify
-
-Unfortunately Spotify has discontinued the RPC API we were using to control Spotify, so support for it has been removed. Due to licensing issues it's unlikely Spotify integration will return.
 
 ### Copyright FYI
 

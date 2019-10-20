@@ -7,7 +7,7 @@ AutoDJ is the player responsible for Song Requests with Nightbot.
 
 ## Usage
 
-The [AutoDJ](https://beta.nightbot.tv/song_requests) page contains Song Request settings, a music player with media controls, and a queue of upcoming songs. The controls at the top of the page are as follows: 
+The [AutoDJ](https://nightbot.tv/song_requests) page contains Song Request settings, a music player with media controls, and a queue of upcoming songs. The controls at the top of the page are as follows: 
 
 - *Enable & Disable* - This setting will enable or disable new requests from being put in the queue.
 - *Clear Queue* - Will clear all songs currently in the queue.
@@ -22,7 +22,7 @@ The Settings control opens a popup where all settings are divided into three cat
 
 - *Userlevel* - This is the minimum required userlevel to request a song. Userlevels are listed from highest to lowest.
 - *Providers* - Services you wish to allow users to request songs from. You can check and uncheck different music providers.
-- *Playlist* - When your song request queue is empty, songs are pulled from the selected playlist. "Channel" is your own [personal playlist](https://beta.nightbot.tv/song_requests/playlist).
+- *Playlist* - When your song request queue is empty, songs are pulled from the selected playlist. "Channel" is your own [personal playlist](https://nightbot.tv/song_requests/playlist).
 - *Search Provider* -  This is the provider that you want to be used for searching songs. Users can add songs by entering the URL or by searching the selected search provider. 
 
 #### Limits

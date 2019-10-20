@@ -32,7 +32,7 @@ The majority of the default commands are designed to allow moderators to control
 
 ### Managing Default Commands
 
-To manage default commands, head to the [default commands page](https://beta.nightbot.tv/commands/default) in the control panel.
+To manage default commands, head to the [default commands page](https://nightbot.tv/commands/default) in the control panel.
 
 A table of default commands will be shown, along with their status and buttons for managing their functionality.
 
@@ -52,7 +52,7 @@ For example, if a popular streamer is consistently bombarded by requests for a l
 
 ### Creating Custom Commands
 
-To create custom commands, click on the "Add Command" button on your [commands page](https://beta.nightbot.tv/commands/custom).
+To create custom commands, click on the "Add Command" button on your [commands page](https://nightbot.tv/commands/custom).
 
 Then, fill in the form with your desired command name, message, userlevel, and cooldown.
 

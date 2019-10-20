@@ -5,7 +5,7 @@ Sort: 2
 
 ## The Basics
 
-Upon entering the [Giveaways](https://beta.nightbot.tv/giveaways) page you are presented with an eligibility list, a giveaway panel, and a chat window.
+Upon entering the [Giveaways](https://nightbot.tv/giveaways) page you are presented with an eligibility list, a giveaway panel, and a chat window.
 
 ### Eligibility List
 

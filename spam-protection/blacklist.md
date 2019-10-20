@@ -11,7 +11,7 @@ Creating and Managing Blacklist Words and Phrases can only be done by the owner 
 
 ### Adding to a Blacklist
 
-To add words and phrases to Nightbot's Blacklist head over to the [Spam Protection menu](https://beta.nightbot.tv/spam_protection). 
+To add words and phrases to Nightbot's Blacklist head over to the [Spam Protection menu](https://nightbot.tv/spam_protection). 
 
 Clicking the Options button will open a popout that you can customize blacklist settings.
 
@@ -41,4 +41,4 @@ The blacklist filter also supports regular expressions (regex) for more filterin
 
 ### Managing Blacklist Filter
 
-All filters can be managed through the [Spam Protection menu](https://beta.nightbot.tv/spam_protection) or through the [!filters command](https://docs.nightbot.tv/commands/filters).
+All filters can be managed through the [Spam Protection menu](https://nightbot.tv/spam_protection) or through the [!filters command](https://docs.nightbot.tv/commands/filters).

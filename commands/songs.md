@@ -3,7 +3,7 @@ Title: !songs
 Sort: 8
 */
 
-The !songs command is used to manage Song Requests within Nightbot. **Note**: Make sure [song requests](https://beta.nightbot.tv/song_requests) are enabled before using these commands.
+The !songs command is used to manage Song Requests within Nightbot. **Note**: Make sure [song requests](https://nightbot.tv/song_requests) are enabled before using these commands.
 
 ## Viewing Current Song
 
@@ -51,7 +51,7 @@ will give a link to view all song requests.
 
 will return the response
 
-> Night -> The song list for this channel is available at https://beta.nightbot.tv/t/night/song_requests
+> Night -> The song list for this channel is available at https://nightbot.tv/t/night/song_requests
 
 ## Getting Channels Playlist
 
@@ -67,7 +67,7 @@ will return a link to the channel's playlist
 
 will return the response
 
-> Night -> The song playlist for this channel is available at https://beta.nightbot.tv/t/night/song_requests/playlist
+> Night -> The song playlist for this channel is available at https://nightbot.tv/t/night/song_requests/playlist
 
 ## Getting Next Song
 

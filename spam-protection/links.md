@@ -9,7 +9,7 @@ Nightbot offers a link filter that allows you to control how links are handled i
 
 Managing Links can be found in the Nightbot Spam Protection menu by owners and channel managers. This filter can also be managed through the [!filters command](https://docs.nightbot.tv/commands/filters).  
 
-To view settings for Nightbot's links filter, head over to the [Spam Protection menu](https://beta.nightbot.tv/spam_protection). 
+To view settings for Nightbot's links filter, head over to the [Spam Protection menu](https://nightbot.tv/spam_protection). 
 
 Clicking the Options button will open a popout that you can customize filter settings.
 
@@ -49,4 +49,4 @@ will allow the user night to post links for the duration of 60 seconds.
 
 ### Managing Links
 
-All filters can be managed through the [Spam Protection menu](https://beta.nightbot.tv/spam_protection) or through the [!filters command](https://docs.nightbot.tv/commands/filters).
+All filters can be managed through the [Spam Protection menu](https://nightbot.tv/spam_protection) or through the [!filters command](https://docs.nightbot.tv/commands/filters).

@@ -7,13 +7,13 @@ Nightbot Timers have the ability to send messages at specific intervals. Frequen
 
 ## Usage
 
-Timers can be created and managed on the [Timers](https://beta.nightbot.tv/timers) page in the control panel.
+Timers can be created and managed on the [Timers](https://nightbot.tv/timers) page in the control panel.
 
 ### Creating a Timer
 
 Creating a Timer for your chat couldn't be any easier.
 
-First head over to the [Timers](https://beta.nightbot.tv/timers) page.
+First head over to the [Timers](https://nightbot.tv/timers) page.
 
 In the top right corner of the panel, click the blue Add button which will open up a popup allowing you to create a timer.
 

@@ -9,7 +9,7 @@ Nightbot offers a emotes filter that allows you to control how excessive Twitch 
 
 Managing excessive emotes can be found in the Nightbot Spam Protection menu by owners and channel managers.
 
-To view settings for Nightbot's emotes filter, head over to the [Spam Protection menu](https://beta.nightbot.tv/spam_protection). 
+To view settings for Nightbot's emotes filter, head over to the [Spam Protection menu](https://nightbot.tv/spam_protection). 
 
 Clicking the Options button will open a popout that you can customize filter settings.
 
@@ -27,4 +27,4 @@ Clicking the Options button will open a popout that you can customize filter set
 
 ### Managing Emotes Filter
 
-All filters can be managed through the [Spam Protection menu](https://beta.nightbot.tv/spam_protection) or through the [!filters command](https://docs.nightbot.tv/commands/filters).
+All filters can be managed through the [Spam Protection menu](https://nightbot.tv/spam_protection) or through the [!filters command](https://docs.nightbot.tv/commands/filters).

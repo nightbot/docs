@@ -31,4 +31,4 @@ would result in
 
 ### Legal Jibber Jabber
 
-Nightbot isn’t endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. Teamfight Tactics © Riot Games, Inc.
+Nightbot isn’t endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Teamfight Tactics. Teamfight Tactics and Riot Games are trademarks or registered trademarks of Riot Games, Inc. Teamfight Tactics © Riot Games, Inc.

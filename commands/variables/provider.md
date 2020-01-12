@@ -13,6 +13,6 @@ would result depending on what service the command was used.
 #### Provider Values
 
 * `twitch` - When used in Twitch chat
-* `youtube` - When used in YouTube Gaming
+* `youtube` - When used in YouTube live chat
 * `discord` - When used in a Discord message
 * `mixer` - When used in Mixer chat

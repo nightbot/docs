@@ -4,7 +4,6 @@ Sort: 2
 */
 
 * `Arguments` – space separated arguments in the command's input  [[*more info*](https://docs.nightbot.tv/commands/variables/arguments)]
-* `Battlelog` – user stats from an EA BattleLog profile  [[*more info*](https://docs.nightbot.tv/commands/variables/battlelog)]
 * `Channel` – name of the current channel  [[*more info*](https://docs.nightbot.tv/commands/variables/channel)]
 * `Count` – variable that automatically increments [[*more info*](https://docs.nightbot.tv/commands/variables/count)]
 * `Countdown` – time left until a specified time  [[*more info*](https://docs.nightbot.tv/commands/variables/countdown)]

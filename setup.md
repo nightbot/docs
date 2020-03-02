@@ -23,7 +23,7 @@ On the Dashboard, click the Join Button on the top-right of the page to have Nig
 
 After adding Nightbot, you can now begin with creating custom commands. Custom commands are an important part of any stream, making information easier to access. Commands are managed in the [Custom Command](https://nightbot.tv/commands/custom) page in the  Control Panel.
 
-When adding a command you will need a command name (usually leading with an exclamation mark) and a command response. [Custom Variables](https://docs.nightbot.tv/commands/variables) can customize your commands with features like Click-To-Tweet links or displaying the weather of a location.
+When adding a command you will need a command name (usually leading with an exclamation mark) and a command response. [Custom Variables](https://docs.nightbot.tv/commands/variableslist) can customize your commands with features like Click-To-Tweet links or displaying the weather of a location.
 
 Commands can also be managed using the [!commands](https://docs.nightbot.tv/commands/commands) command.
 

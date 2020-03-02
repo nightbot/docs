@@ -58,13 +58,13 @@ Then, fill in the form with your desired command name, message, userlevel, and c
 
 - *Command* - Generally speaking, commands are usually prefixed with exclamation points. They can, in fact, be anything you would like, or even none at all. Command names are not allowed to contain spaces.
 
-- *Message* - The response of the command. You can use [Variables](https://docs.nightbot.tv/commands/variables) in your messages to make dynamic messages.
+- *Message* - The response of the command. You can use [Variables](https://docs.nightbot.tv/commands/variableslist) in your messages to make dynamic messages.
 
 - *Userlevel* - Selects who has the permission to execute the command. For example, selecting “Regulars” allows users in your channel's regular list the permission to use the command. Larger channels may want the Userlevel set to Regulars or above.
 
 - *Cooldown* - Time minimum amount of time between command uses (to prevent the command from spamming the chat)
 
-- *Alias* - If the command you're making is supposed to call another command, specify the other command here. Note that the input passed to the listed alias is the message. To capture user input, you'd need to place [variables](https://docs.nightbot.tv/commands/variables) in the message (like `$(query)`).
+- *Alias* - If the command you're making is supposed to call another command, specify the other command here. Note that the input passed to the listed alias is the message. To capture user input, you'd need to place [variables](https://docs.nightbot.tv/commands/variableslist) in the message (like `$(query)`).
 
 ### Removing and Editing Existing Commands
 

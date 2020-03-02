@@ -21,7 +21,7 @@ In the top right corner of the panel, click the blue Add button which will open 
 
 - *Name* - This is your timer name. This has no real significance but to give you a quick reference to what your timer does. Ex. Twitter Message
 
-- *Message* - What do you want your timer's message to say when it gets shown in the chat? [Custom Variables](https://docs.nightbot.tv/commands/variables) can also be used to make dynamic messages.
+- *Message* - What do you want your timer's message to say when it gets shown in the chat? [Custom Variables](https://docs.nightbot.tv/commands/variableslist) can also be used to make dynamic messages.
 
 - *Interval* - Move the slider to the desired amount of time before the timer repeats. For example, 15 minute intervals will activate at 2:00, 2:15, 2:30, etc.
 
@@ -47,4 +47,4 @@ The Panel screen lists all timers; displaying their current status, name, messag
 
 - **Less is More** - Keep your amount of timers and the length between timers showing reasonable. Users do not like being spammed.
 
-- **Change them up** - Don't be afraid to change a timers message, either to new changes such as a Twitter post or a link to a shirt your trying to advertise, change the content frequently. And with [Variables](https://docs.nightbot.tv/commands/variables) you can set messages that update automatically.
+- **Change them up** - Don't be afraid to change a timers message, either to new changes such as a Twitter post or a link to a shirt your trying to advertise, change the content frequently. And with [Variables](https://docs.nightbot.tv/commands/variableslist) you can set messages that update automatically.

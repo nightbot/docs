@@ -3,19 +3,19 @@ Title: Nightbot App
 Sort: 2
 */
 
-In order to provide some extra functionality to song requests, we've created a small app for Windows and OSX. With this app you'll be able to show the current song in your streaming software (such as OBS) and use hotkeys for song requests.
+In order to provide some extra functionality to song requests, we've created a small app for Windows and MacOS. With this app you'll be able to show the current song in your streaming software (such as OBS) and use hotkeys for song requests.
 
 ## Download
 
-* [Windows v0.1.2](https://nightbot.tv/dl/nightbot_v0.1.2_win.exe)
-* [OSX v0.1.2](https://nightbot.tv/dl/nightbot_v0.1.2_osx.zip)
+* [Windows v0.1.3](https://nightbot.tv/dl/nightbot_v0.1.3_win.exe)
+* [MacOS v0.1.3](https://nightbot.tv/dl/nightbot_v0.1.3_osx.zip)
 
 ## Current Song Output
 
-On Windows and OSX, we output a file in the Nightbot folder within your Documents folder. Here are the default paths:
+On Windows and MacOS, we output a file in the Nightbot folder within your Documents folder. Here are the default paths:
 
 * Windows: `%USERPROFILE%\Documents\Nightbot\`
-* OSX: `/Users/USERNAME/Documents/Nightbot/`
+* MacOS: `/Users/USERNAME/Documents/Nightbot/`
 
 You can customize the output of this file from the Settings menu on the AutoDJ page.
 

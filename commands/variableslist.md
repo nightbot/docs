@@ -5,6 +5,8 @@ Sort: 2
 
 * `Arguments` – space separated arguments in the command's input  [[*more info*](https://docs.nightbot.tv/commands/variables/arguments)]
 * `Channel` – name of the current channel  [[*more info*](https://docs.nightbot.tv/commands/variables/channel)]
+* `ChannelID` – id of the current channel  [[*more info*](https://docs.nightbot.tv/commands/variables/channelid)]
+* `ChatID` – id of the current chat  [[*more info*](https://docs.nightbot.tv/commands/variables/chatid)]
 * `Count` – variable that automatically increments [[*more info*](https://docs.nightbot.tv/commands/variables/count)]
 * `Countdown` – time left until a specified time  [[*more info*](https://docs.nightbot.tv/commands/variables/countdown)]
 * `Countup` – time past since a specified time  [[*more info*](https://docs.nightbot.tv/commands/variables/countup)]
@@ -23,6 +25,7 @@ Sort: 2
 * `Twitch` – user information from a Twitch profile  [[*more info*](https://docs.nightbot.tv/commands/variables/twitch)]
 * `UrlFetch` – output from a remote url (formerly `customapi`)  [[*more info*](https://docs.nightbot.tv/commands/variables/urlfetch)]
 * `User` – name of the calling user  [[*more info*](https://docs.nightbot.tv/commands/variables/user)]
+* `UserID` – id of the calling user  [[*more info*](https://docs.nightbot.tv/commands/variables/userid)]
 * `UserLevel` – userlevel of the calling user  [[*more info*](https://docs.nightbot.tv/commands/variables/userlevel)]
 * `Weather` – weather information at a specified location  [[*more info*](https://docs.nightbot.tv/commands/variables/weather)]
 * `XBL` – user stats from an Xbox Live profile  [[*more info*](https://docs.nightbot.tv/commands/variables/xbl)]

@@ -17,6 +17,7 @@ These are the default commands for Nightbot. Find out more information about eac
 * `!permit` - Allows User to Temporarily Post Links [[*more info*](https://docs.nightbot.tv/spam-protection/links)]
 * `!game` - Show Current Game for that Channel  [[*more info*](https://docs.nightbot.tv/commands/game)]
   * `<game>` - Set Current Game for that Channel
+* `!marker` - Set a Twitch stream marker from chat  [[*more info*](https://docs.nightbot.tv/commands/marker)]
 * `!poll`  [[*more info*](https://docs.nightbot.tv/commands/poll)]
   * `new` - Create a new Strawpoll to vote on
   * `results` - View Current Results of Latest Strawpoll

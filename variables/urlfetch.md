@@ -36,7 +36,7 @@ Nightbot sends request headers that contain pertinent information of the user ca
 
 ### JSON 
 
-This variant of urlfetch will allow the api to be greater than 400 characters, however the response must be type JSON. This is most useful when paired with [eval](https://docs.nightbot.tv/commands/variables/eval) to get more dynamic results.
+This variant of urlfetch will allow the api to be greater than 400 characters, however the response must be type JSON. This is most useful when paired with [eval](https://docs.nightbot.tv/variables/eval) to get more dynamic results.
 
 ### Usage
 

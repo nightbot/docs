@@ -6,7 +6,7 @@ Sort: 1
 These are the default commands for Nightbot. Find out more information about each command with its related link.
 
 * `!nightbot`
-  * `join` - Force Nightbot to Join your Channel (Only in [Nightbot's Chat](https://www.twitch.tv/nightbot)) [**Owner Only**] 
+  * `join` - Force Nightbot to Join your Channel (Only in [Nightbot's Chat](https://www.twitch.tv/nightbot)) [**Owner Only**]
   * `part` or `leave` - Force Nightbot to Leave your Channel [**Owner Only**]
 * `!commands` - Link to Command Page for the Channel  [[*more info*](https://docs.nightbot.tv/commands/commands)]
   * `add` - Add Custom Command to Nightbot

@@ -2,7 +2,7 @@
 Title: Provider
 */
 
-The Provider variable can be used to show the service where Nightbot is receiving a command. It's useful when used as an argument for a [UrlFetch](https://docs.nightbot.tv/commands/variables/urlfetch).
+The Provider variable can be used to show the service where Nightbot is receiving a command. It's useful when used as an argument for a [UrlFetch](https://docs.nightbot.tv/variables/urlfetch).
 
 ## Usage
 

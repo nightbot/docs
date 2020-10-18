@@ -12,7 +12,7 @@ The urlfetch (formerly customapi) variable calls a remote url to retrieve and di
 
 ### Examples
 
-Check out the Custom APIs sub-forum on our Community Forum: https://community.nightdev.com/c/nightbot/custom-apis
+Check out the community made Custom APIs on our forum: https://community.nightdev.com/c/nightbot/custom-apis
 
 ## Advanced Usage
 

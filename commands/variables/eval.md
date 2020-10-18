@@ -12,7 +12,7 @@ The Eval variable is used to evaluate JavaScript code. The timeout length of the
 
 > $(eval 2 + 2)
 
-would result in 
+would result in
 
 > 4
 

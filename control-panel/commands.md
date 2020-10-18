@@ -19,16 +19,20 @@ The majority of the default commands are designed to allow moderators to control
   - Allows moderators to manage spam protection filter settings
 * [!game](https://docs.nightbot.tv/commands/game)
   - Allows users to see the current game of the stream, and allows moderators to change the current game
+* [!marker](https://docs.nightbot.tv/commands/marker)
+  - Create a stream marker in your Twitch channel to easily return to later
 * [!poll](https://docs.nightbot.tv/commands/poll)
   - Allows moderators to create a Strawpoll within chat, and allows users to see the results
 * [!regulars](https://docs.nightbot.tv/commands/regulars)
   - Allows moderators to manage the channel regulars list
 * [!songs](https://docs.nightbot.tv/commands/songs)
   - Allows users to request songs, and allows moderators to manage the requested songs queue
+* [!tags](https://docs.nightbot.tv/commands/tags)
+  - Edit your stream's tags to improve discoverability
 * [!title](https://docs.nightbot.tv/commands/title)
   - Allows users to see the current title of the stream, and allows moderators to change the current title
 * [!winner](https://docs.nightbot.tv/commands/winner)
-  - Allows moderators to choose a random active user as a winner.
+  - Allows moderators to choose a random active user as a winner
 
 ### Managing Default Commands
 

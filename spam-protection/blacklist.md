@@ -11,7 +11,7 @@ Creating and Managing Blacklist Words and Phrases can only be done by the owner 
 
 ### Adding to a Blacklist
 
-To add words and phrases to Nightbot's Blacklist head over to the [Spam Protection menu](https://nightbot.tv/spam_protection). 
+To add words and phrases to Nightbot's Blacklist head over to the [Spam Protection menu](https://nightbot.tv/spam_protection).
 
 Clicking the Options button will open a popout that you can customize blacklist settings.
 
@@ -33,7 +33,7 @@ The blacklist filter also supports regular expressions (regex) for more filterin
 
 - *Timeout Length* - This is the maximum length of time Nightbot will timeout users for when being punished for this spam filter. Nightbot always issues a 5-second timeout for first offenses, and repeat offenses yield the length you select here. The 600-second default value is equivalent to 10 minutes.
 
-- *Exempt Userlevel* - This is the minimum required userlevel to be exempt from this filter. For example, if `regular` is set, regulars are able to use blacklisted words and not get punished. 
+- *Exempt Userlevel* - This is the minimum required userlevel to be exempt from this filter. For example, if `regular` is set, regulars are able to use blacklisted words and not get punished.
 
 - *Silent Mode* - Enable this setting and Nightbot will no longer give messages to punished users. This is useful for busier channels where Nightbot floods the chat with timeout explanation messages.
 

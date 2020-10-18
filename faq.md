@@ -25,4 +25,4 @@ Download and install the [Nightbot App](https://docs.nightbot.tv/app). Upon runn
 
 ### This isn't working and it should be. This should be added to Nightbot!
 
-We are always looking to fix bugs and improve Nightbot, unreported bugs often go unnoticed. Contact us using the [Nightbot forum](https://community.nightdev.com/c/nightbot) or on Twitter at [@nightbotapp](https://twitter.com/nightbotapp). If there is a feature you think should be added, tell us in greater detail on the forum. We're always looking for ways to improve Nightbot. 
+We are always looking to fix bugs and improve Nightbot, unreported bugs often go unnoticed. Contact us using the [Nightbot forum](https://community.nightdev.com/c/nightbot) or on Twitter at [@nightbotapp](https://twitter.com/nightbotapp). If there is a feature you think should be added, tell us in greater detail on the forum. We're always looking for ways to improve Nightbot.

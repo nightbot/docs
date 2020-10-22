@@ -1,5 +1,5 @@
 /*
-Title: Discord Integration 
+Title: Discord Integration
 Sort: 3
 */
 

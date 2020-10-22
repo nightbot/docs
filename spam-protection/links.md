@@ -7,9 +7,9 @@ Nightbot offers a link filter that allows you to control how links are handled i
 
 ## Usage
 
-Managing Links can be found in the Nightbot Spam Protection menu by owners and channel managers. This filter can also be managed through the [!filters command](https://docs.nightbot.tv/commands/filters).  
+Managing Links can be found in the Nightbot Spam Protection menu by owners and channel managers. This filter can also be managed through the [!filters command](https://docs.nightbot.tv/commands/filters).
 
-To view settings for Nightbot's links filter, head over to the [Spam Protection menu](https://nightbot.tv/spam_protection). 
+To view settings for Nightbot's links filter, head over to the [Spam Protection menu](https://nightbot.tv/spam_protection).
 
 Clicking the Options button will open a popout that you can customize filter settings.
 
@@ -31,7 +31,7 @@ The links filter also supports regular expressions (regex) for more whitelist op
 
 - *Timeout Length* - This is the maximum length of time Nightbot will timeout users for when being punished for this spam filter. Nightbot always issues a 5-second timeout for first offenses, and repeat offenses yield the length you select. The 600-second default value is equivalent to 10 minutes.
 
-- *Exempt Userlevel* - This is the minimum required userlevel to be exempt from this filter. For example, if `regular` is set, regulars are able to post links and not get punished. 
+- *Exempt Userlevel* - This is the minimum required userlevel to be exempt from this filter. For example, if `regular` is set, regulars are able to post links and not get punished.
 
 - *Silent Mode* - Enable this setting and Nightbot will no longer give messages to punished users. This is useful for busier channels where Nightbot floods the chat with timeout explanation messages.
 

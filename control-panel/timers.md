@@ -33,7 +33,7 @@ In the top right corner of the panel, click the blue Add button which will open 
 
 ### Managing Timers
 
-The Panel screen lists all timers; displaying their current status, name, message, and action buttons. 
+The Panel screen lists all timers; displaying their current status, name, message, and action buttons.
 
 #### Action Buttons
 

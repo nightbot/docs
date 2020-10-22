@@ -9,11 +9,11 @@ Upon entering the [Giveaways](https://nightbot.tv/giveaways) page you are presen
 
 ### Eligibility List
 
-The eligibility list shows the current pool of users eligible to win the current giveaway. 
+The eligibility list shows the current pool of users eligible to win the current giveaway.
 
 A user has a blue eligibility mark next to their name if they are eligible to win the current giveaway. When a user becomes eligible, they are automatically marked as eligible in the list. Clicking the eligibilty mark next to a user will toggle their eligibility.
 
-Next to the search is a Reset Eligibility Button which will clear the eligibility of all users in the list. 
+Next to the search is a Reset Eligibility Button which will clear the eligibility of all users in the list.
 
 ### Giveaway Panel
 

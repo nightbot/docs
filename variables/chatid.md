@@ -6,4 +6,4 @@ ChatID can be used to retrieve the particular chat's ID. This is primarily usefu
 
 ## Usage
 
-> $(eval `$(chatid)` === 'pM4IfHZ5qcYSf987SDFDF9' ? 'say this' : 'say something else')
+> $(eval '$(chatid)' === 'pM4IfHZ5qcYSf987SDFDF9' ? 'say this' : 'say something else')

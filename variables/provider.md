@@ -15,3 +15,4 @@ would result depending on what service the command was used.
 * `twitch` - When used in Twitch chat
 * `youtube` - When used in YouTube live chat
 * `discord` - When used in a Discord message
+* `trovo` - When used in Trovo chat

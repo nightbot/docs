@@ -57,7 +57,7 @@ When !testing is called, the command will now return
 
 ### Userlevels and Cooldowns
 
-When adding and editing commands, you can also specific the userlevel required to execute the command as well as the command's cooldown time. You just need to apply the parameters as shown below.
+When adding and editing commands, you can also specify the userlevel required to execute the command as well as the command's cooldown time. You just need to apply the parameters as shown below.
 
 > !commands add `!command_name` -ul=`userlevel` -cd=`cooldown` -a=`!alias` `command response`
 

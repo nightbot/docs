@@ -9,7 +9,7 @@ The !commercial command will run a commercial for a specified length. This comma
 
 > !commercial `duration` `[silent]`
 
-`duration` is the length you want the commercial to run for. The duration can be `30`, `60`, `90`, `120`, `150`or `180` seconds.
+`duration` is the length you want the commercial to run for. The duration can be `30`, `60`, `90`, `120`, `150` or `180` seconds.
 
 `[silent]` is an optional value that will hide the Nightbot response, particularly for use in Timers.
 

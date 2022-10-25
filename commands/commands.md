@@ -73,6 +73,7 @@ When adding and editing commands, you can also specify the userlevel required to
 
 * **owner** - Channel Owner
 * **moderator** - Channel Moderator
+* **twitch_vip** - Twitch VIP (only for Twitch accounts)
 * **regular** - Nightbot Regular (users in the [regulars](https://docs.nightbot.tv/control-panel/regulars) list)
 * **subscriber** - Paid Channel Subscriber
 * **everyone** - Normal User *(default)*
@@ -80,3 +81,16 @@ When adding and editing commands, you can also specify the userlevel required to
 ### Variables
 
 Variables can be used within command responses. For a list of variables and examples of their use, check out the [Variables](https://docs.nightbot.tv/commands/variableslist) page.
+
+### Chat Commands
+
+On Twitch, Nightbot allows you to use the following chat commands in Nightbot responses:
+
+* `/me` - Calls attention to the message by italicizing it.
+* `/announce` - Calls attention to the message by highlighting it (with a gradient color).
+* `/announceblue` - Calls attention to the message by highlighting it blue.
+* `/announcegreen` - Calls attention to the message by highlighting it green.
+* `/announceorange` - Calls attention to the message by highlighting it orange.
+* `/announcepurple` - Calls attention to the message by highlighting it purple.
+
+On YouTube and Trovo, chat commands are not supported at this time.

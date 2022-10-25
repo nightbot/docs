@@ -22,13 +22,13 @@ You can customize the output of this file from the Settings menu on the AutoDJ p
 
 ## Hotkeys
 
-We have added global hotkeys to make controlling song requests when streaming easier. These hotkeys make use of media keys, so if your keyboard does not support them you're not able to use them at this time.
+There are global hotkeys to make controlling song requests when streaming easier. These hotkeys make use of media keys, so if your keyboard does not support them you're not able to use them at this time.
 
 * Skip Song: `Fast Forward Media Key`
 * Play/Pause Toggle: `Play/Pause Media Key`
 * Volume Up: `Ctrl/Cmd` + `Shift` + `U`
 * Volume Down: `Ctrl/Cmd` + `Shift` + `D`
 
-### Copyright FYI
+## Copyright Warning
 
-Be aware that streaming copyrighted music content may result in negative consequences for your stream. Many music content producers (Monstercat, Ninety9Lives, etc.) are starting to offer licensing for their content to be played on YouTube/Twitch. We recommend setting up a channel playlist full of licensed/free music and then restricting requested songs to the channel playlist (this can be configured in the song request settings). This ensures you control the library of music that can be played on your stream and prevents viewers from causing you to break any laws by streaming copyrighted content.
+Streaming copyrighted music content may result in negative consequences for your stream. Many music content publishers (Monstercat, Ninety9Lives, etc.) offer licensing for their content to be played on streaming platforms like YouTube and Twitch. We recommend setting up a channel playlist full of licensed/free music and then restricting requested songs to the channel playlist (this can be configured in the song request settings). This prevents viewers from requesting unlicensed songs and causing you to receive a copyright strike/takedown by streaming copyrighted content.

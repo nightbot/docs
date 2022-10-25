@@ -2,7 +2,7 @@
 Title: Eval
 */
 
-The Eval variable is used to evaluate JavaScript code. The timeout length of the script execution is 1 second. 
+The Eval variable is used to evaluate JavaScript code.
 
 ## Usage
 
@@ -16,15 +16,27 @@ would result in
 
 > 4
 
-### Example Usage
+## Examples
 
-> $(eval for(;;){}) `(infinite loop)`
+#### Generate a random number between 1 to 100
 
-would result in
+> !commands add !random The Random Number is: $(eval Math.floor((Math.random() * 100) + 1))
 
-> Script execution timed out.
+#### Make an 8ball command
 
-## A warning about command input
+> !commands add !8ball 🎱 $(eval const responses = ['All signs point to yes...', 'Yes!', 'My sources say nope.', 'You may rely on it.', 'Concentrate and ask again...', 'Outlook not so good...', 'It is decidedly so!', 'Better not tell you.', 'Very doubtful.', 'Yes - Definitely!', 'It is certain!', 'Most likely.', 'Ask again later.', 'No!', 'Outlook good.', 'Don\\'t count on it.']; responses[Math.floor(Math.random() * responses.length)];)
+
+## Limitations
+
+### Execution Timeout
+
+The timeout length of the script execution is 1 second.
+
+### Async Support
+
+Only synchronous execution is supported. Async code will result in an error.
+
+### Input Injection
 
 Variables substituted inside of the Eval variable are treated as raw JavaScript. 
 Because of this, extra care should be taken when using variables inside of Eval.
@@ -52,13 +64,3 @@ In order to avoid this, make use of the [QueryString](https://docs.nightbot.tv/v
 Or, if substituting a different variable, such as an [argument](https://docs.nightbot.tv/variables/arguments):
 
 > !addcom !upper $(eval "@$(user), " + decodeURIComponent("$(querystring $(3))").toUpperCase())
-
-## Examples
-
-#### Generate a random number between 1 to 100
-
-> !commands add !random The Random Number is: $(eval Math.floor((Math.random() * 100) + 1))
-
-#### Make an 8ball command
-
-> !commands add !8ball 🎱 $(eval const responses = ['All signs point to yes...', 'Yes!', 'My sources say nope.', 'You may rely on it.', 'Concentrate and ask again...', 'Outlook not so good...', 'It is decidedly so!', 'Better not tell you.', 'Very doubtful.', 'Yes - Definitely!', 'It is certain!', 'Most likely.', 'Ask again later.', 'No!', 'Outlook good.', 'Don\\'t count on it.']; responses[Math.floor(Math.random() * responses.length)];)

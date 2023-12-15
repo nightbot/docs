@@ -2,28 +2,28 @@
 Title: TeamfightTactics
 */
 
-You can use the TeamfightTactics variable to create commands that display rank information for a summoner name.
+You can use the TeamfightTactics variable to create commands that display rank information for a Riot ID.
 
 ## Usage
 
-> $(teamfighttactics `summoner_name` `region`)
+> $(teamfighttactics `riot_id` `region`)
 
-`summoner_name` is the summoner name being looked up
+`riot_id` is the Riot ID being looked up (`GameName#TagLine`)
 `region` is the region the summoner plays on
 
 #### Example Usage
 
-> $(teamfighttactics testing na)
+> $(teamfighttactics testing#1234 na)
 
 would result in
 
-> testing's current rank: Challenger I
+> testing#1234's current rank: Challenger I
 
 ## Examples
 
 #### Adding a command to show chatters your rank
 
-> !commands add !rank $(teamfighttactics `summoner_name` `region`)
+> !commands add !rank $(teamfighttactics `riot_id` `region`)
 
 #### Adding a command to allow users in chat to lookup their own account
 

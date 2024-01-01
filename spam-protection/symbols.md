@@ -15,7 +15,7 @@ Clicking the Options button will open a popout that you can customize filter set
 
 #### Options
 
-- *Timeout Length* - This is the maximum length of time Nightbot will timeout users for when being punished for this spam filter. Nightbot always issues a 5-second timeout for first offenses, and repeat offenses yield the length you select. The 600-second default value is equivalent to 10 minutes.
+- *Timeout Length* - This is the maximum length of time Nightbot will timeout users for when being punished for this spam filter. Nightbot always issues a warning for first offenses (either the message is deleted or the user is timed out for 5 seconds), and repeat offenses yield the length you select. The 600-second default value is equivalent to 10 minutes.
 
 - *Limit* - This is the minimum number of symbols before Nightbot will punish the user for spamming. The default limit is 8 symbols.
 

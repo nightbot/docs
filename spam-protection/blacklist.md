@@ -31,7 +31,7 @@ The blacklist filter also supports regular expressions (regex) for more filterin
 
 - *Blacklist* - This is the text box of filtered words and phrases you wish to blacklist. Entering one entry per line. You can use an asterisk (\*) as a wildcard character to dynamically filter words and phrases. For example, `test*` blocks `test`, `testing`, `testerino`, etc.
 
-- *Timeout Length* - This is the maximum length of time Nightbot will timeout users for when being punished for this spam filter. Nightbot always issues a 5-second timeout for first offenses, and repeat offenses yield the length you select here. The 600-second default value is equivalent to 10 minutes.
+- *Timeout Length* - This is the maximum length of time Nightbot will timeout users for when being punished for this spam filter. Nightbot always issues a warning for first offenses (either the message is deleted or the user is timed out for 5 seconds), and repeat offenses yield the length you select here. The 600-second default value is equivalent to 10 minutes.
 
 - *Exempt Userlevel* - This is the minimum required userlevel to be exempt from this filter. For example, if `regular` is set, regulars are able to use blacklisted words and not get punished.
 

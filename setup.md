@@ -5,7 +5,7 @@ Sort: 5
 
 ## General Setup Guide for Nightbot
 
-This page's purpose is a general guide for new users who want to use Nightbot. This guide will review some of the basics of using Nightbot with more advanced usage on the individual doc site pages. Nightbot is currently available for Twitch, YouTube, and Trovo!
+This page's purpose is a general guide for new users who want to use Nightbot. This guide will review some of the basics of using Nightbot with more advanced usage on the individual doc site pages. Nightbot is currently available for Twitch, YouTube, Trovo, and Noice!
 
 ### Sign in & Dashboard
 

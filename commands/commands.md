@@ -93,4 +93,4 @@ On Twitch, Nightbot allows you to use the following chat commands in Nightbot re
 * `/announceorange` - Calls attention to the message by highlighting it orange.
 * `/announcepurple` - Calls attention to the message by highlighting it purple.
 
-On YouTube and Trovo, chat commands are not supported at this time.
+On YouTube, Trovo, and Noice, chat commands are not supported at this time.

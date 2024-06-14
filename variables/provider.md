@@ -16,3 +16,4 @@ would result depending on what service the command was used.
 * `youtube` - When used in YouTube live chat
 * `discord` - When used in a Discord message
 * `trovo` - When used in Trovo chat
+* `noice` - When used in Noice chat

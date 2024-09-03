@@ -7,9 +7,9 @@ In order to provide some extra functionality to song requests, we've created a s
 
 ## Download
 
-* [Windows v0.1.5](https://nightbot.tv/dl/nightbot_v0.1.5_win.exe)
-* [MacOS v0.1.5 (Intel)](https://nightbot.tv/dl/nightbot_v0.1.5_mac_x64.zip)
-* [MacOS v0.1.5 (Apple Silicon)](https://nightbot.tv/dl/nightbot_v0.1.5_mac_arm64.zip)
+* [Windows v0.1.6](https://nightbot.tv/dl/nightbot_v0.1.6_win.exe)
+* [MacOS v0.1.6 (Intel)](https://nightbot.tv/dl/nightbot_v0.1.6_mac_x64.zip)
+* [MacOS v0.1.6 (Apple Silicon)](https://nightbot.tv/dl/nightbot_v0.1.6_mac_arm64.zip)
 
 ## Current Song Output
 

@@ -17,3 +17,4 @@ would result depending on what service the command was used.
 * `discord` - When used in a Discord message
 * `trovo` - When used in Trovo chat
 * `noice` - When used in Noice chat
+* `soop` - When used in SOOP chat

@@ -3,7 +3,7 @@ Title: !poll
 Sort: 6
 */
 
-The !poll command allows you and your moderators to easily create polls using [Straw Poll](https://strawpoll.me/).
+The !poll command allows you and your moderators to easily create polls using [Straw Poll](https://strawpoll.com/).
 
 ## Creating a Poll
 
@@ -21,7 +21,7 @@ The !poll command allows you and your moderators to easily create polls using [S
 
 will return a new StrawPoll with options yes, no, and maybe:
 
-> Night started a new poll: "Should I bake a pizza?" - Head to https://strawpoll.me/6369092 to vote!
+> Night started a new poll: "Should I bake a pizza?" - Head to https://strawpoll.com/ABC123def456 to vote!
 
 ## Viewing Results
 

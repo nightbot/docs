@@ -1,13 +1,13 @@
 /*
-Title: AutoDJ
+Title: Song Requests
 Sort: 4
 */
 
-AutoDJ is the player responsible for Song Requests with Nightbot.
+Song Requests is the ability for music in your stream to be chosen by the viewers.
 
 ## Usage
 
-The [AutoDJ](https://nightbot.tv/song_requests) page contains Song Request settings, a music player with media controls, and a queue of upcoming songs. The controls at the top of the page are as follows: 
+The [Song Requests](https://nightbot.tv/song_requests) page contains Song Request settings, a music player with media controls, and a queue of upcoming songs. The controls at the top of the page are as follows: 
 
 - *Enable & Disable* - This setting will enable or disable new requests from being put in the queue.
 - *Clear Queue* - Will clear all songs currently in the queue.
@@ -48,7 +48,7 @@ The music player will change automatically in accordance to the selected Provide
 - *Play & Pause* - Used to play or pause the currently playing song.
 - *Next Song* - The next song button can be used to instantly start the next queued song.
 - *Track Slider* - Used to display the current location of the song and can be used to jump around on the current song.
-- *Volume* - Used to change the overall volume of AutoDJ, also controllable through the [!volume](https://docs.nightbot.tv/commands/songs#editing-song-volume) command.
+- *Volume* - Used to change the overall volume of Song Requests, also controllable through the [!volume](https://docs.nightbot.tv/commands/songs#editing-song-volume) command.
 
 #### Song Information
 
@@ -62,7 +62,7 @@ The music player will also give the following information while the song is curr
 
 ### Queue
 
-Below the player and controls lays the queue where AutoDJ displays the upcoming songs.
+Below the player and controls lays the queue where Song Requests displays the upcoming songs.
 
 Using the gray up arrow icon you can promote a song to be first in the queue. To delete upcoming songs use the red trash icon on the right of the entry. Both of these can also be done with the [!songs](https://docs.nightbot.tv/commands/songs) command.
 

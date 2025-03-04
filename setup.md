@@ -39,13 +39,13 @@ The solution is for you to add users as Regulars into Nightbot. Users can be man
 
 This can also be done by using the [!regulars command](https://docs.nightbot.tv/commands/regulars).
 
-### Song Request
+### Song Requests
 
-Song Request is the ability for music in your stream to go into viewers hands.
+Song Requests is the ability for music in your stream to be chosen by the viewers.
 
-A personal playlist is provided as a backup song list if the queue happens to run out of requests. Alternatively, Monstercat songs can also be used rather than your personal playlist.
+A personal playlist is provided as a "backup song list" if the queue runs out of songs. We provide a default selection of songs to get you started, but you can build your own.
 
-For more information about Song Request see the [AutoDJ](https://nightbot.tv/song_requests) page and [AutoDJ Guide](https://docs.nightbot.tv/control-panel/autodj).
+For more information see the [Song Requests](https://nightbot.tv/song_requests) page and [Song Requests Guide](https://docs.nightbot.tv/control-panel/song-requests).
 
 ### Spam Filters
 

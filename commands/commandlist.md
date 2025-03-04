@@ -25,18 +25,18 @@ These are the default commands for Nightbot. Find out more information about eac
   * `add` - Add Username to Regular UserLevel
   * `delete` - Delete Username from Regular UserLevel
 * `!songs`  [[*more info*](https://docs.nightbot.tv/commands/songs)]
-  * `current` - Display Current Song from AutoDJ
+  * `current` - Display Current Song from Song Requests
   * `delete` - Delete Existing Song from the Song Queue
   * `list` - Link to Songlist for the Channel
   * `playlist` - Link to Playlist for the Channel
-  * `next` - Display Next Song from AutoDJ
+  * `next` - Display Next Song from Song Requests
   * `request` - Add Song into Song Queue
-  * `skip` - Skip the Currently Playing Song in AutoDJ
+  * `skip` - Skip the Currently Playing Song in Song Requests
   * `save` - Save the Currently Playing Song into user Playlist
   * `promote` - Move Song to be Next Playing Song
-  * `volume` - View and Change Current AutoDJ Volume
-  * `play` - Start the Playing of AutoDJ (must be open in browser)
-  * `pause` - Pause the Playing of AutoDJ (must be open in browser)
+  * `volume` - View and Change Current Song Requests Volume
+  * `play` - Start the Playing of Song Requests (must be open in browser)
+  * `pause` - Pause the Playing of Song Requests (must be open in browser)
 * `!tags` - Show Current Tags for the Channel  [[*more info*](https://docs.nightbot.tv/commands/tags)]
   * `<tags>` - Set Current Tags for the Channel
 * `!title` - Show Current Title for the Channel  [[*more info*](https://docs.nightbot.tv/commands/title)]

@@ -18,7 +18,7 @@ On Windows and MacOS, we output a file in the Nightbot folder within your Docume
 * Windows: `%USERPROFILE%\Documents\Nightbot\`
 * MacOS: `/Users/USERNAME/Documents/Nightbot/`
 
-You can customize the output of this file from the Settings menu on the AutoDJ page.
+You can customize the output of this file from the Settings menu on the Song Requests page.
 
 ## Hotkeys
 

@@ -27,11 +27,11 @@ Lastly, sometimes users have accidentally blocked/ignored Nightbot. This causes 
 
 ### My Playlist was deleted and I can't find it. How do I get it back?
 
-Navigate to the [AutoDJ settings](https://nightbot.tv/song_requests) and under the **General** Header change the **Playlist** setting to **Channel**. Personal playlists can be edited in the [Playlist](https://nightbot.tv/song_requests/playlist) page.
+Navigate to the [Song Request settings](https://nightbot.tv/song_requests) and under the **General** Header change the **Playlist** setting to **Channel**. Personal playlists can be edited in the [Playlist](https://nightbot.tv/song_requests/playlist) page.
 
-### Why do I get songs in AutoDJ that can't be deleted?
+### Why do I get songs in Song Requests that can't be deleted?
 
-There is another playlist active in the AutoDJ settings. Please refer to the previous question to change this.
+There is another playlist active in the Song Request settings. Please refer to the previous question to change this.
 
 ### How do I get the current song to display on OBS/XSpilt?
 

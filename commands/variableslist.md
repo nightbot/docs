@@ -14,7 +14,6 @@ Sort: 2
 * `Eval` - evaluates JavaScript code [[*more info*](https://docs.nightbot.tv/variables/eval)]
 * `Lastfm` – last scrobbled song from a Last.fm profile  [[*more info*](https://docs.nightbot.tv/variables/lastfm)]
 * `LeagueOfLegends` - display rank information for a summoner name [[*more info*](https://docs.nightbot.tv/variables/leagueoflegends)]
-* `PSN` – user stats from a Playstation Network profile  [[*more info*](https://docs.nightbot.tv/variables/psn)]
 * `Query` – full input that comes after the command  [[*more info*](https://docs.nightbot.tv/variables/query)]
 * `QueryString` – full input that comes after the command with url-encoding  [[*more info*](https://docs.nightbot.tv/variables/querystring)]
 * `Rainwave` – current song information from the Rainwave radio network  [[*more info*](https://docs.nightbot.tv/variables/rainwave)]
@@ -28,4 +27,3 @@ Sort: 2
 * `UserID` – id of the calling user  [[*more info*](https://docs.nightbot.tv/variables/userid)]
 * `UserLevel` – userlevel of the calling user  [[*more info*](https://docs.nightbot.tv/variables/userlevel)]
 * `Weather` – weather information at a specified location  [[*more info*](https://docs.nightbot.tv/variables/weather)]
-* `XBL` – user stats from an Xbox Live profile  [[*more info*](https://docs.nightbot.tv/variables/xbl)]

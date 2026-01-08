@@ -1,6 +1,7 @@
 ---
-title: "Commands List"
+title: "Commands"
 sidebar_position: 1
+slug: /commands
 ---
 
 These are the default commands for Nightbot. Find out more information about each command with its related link.

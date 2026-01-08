@@ -1,5 +1,5 @@
 ---
-title: "Nightbot FAQ"
+title: "FAQ"
 sidebar_position: 4
 ---
 

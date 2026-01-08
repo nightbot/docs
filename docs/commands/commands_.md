@@ -1,6 +1,7 @@
 ---
 title: "!commands"
 sidebar_position: 3
+slug: /commands/commands
 ---
 
 The !commands command allows users to get a link to your custom commands page and allows you and your moderators to add, remove, and modify custom commands.

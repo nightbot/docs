@@ -1,6 +1,7 @@
 ---
-title: "Variables List"
+title: "Variables"
 sidebar_position: 2
+slug: /variables
 ---
 
 * `Arguments` – space separated arguments in the command's input  [[*more info*](https://docs.nightbot.tv/variables/arguments)]

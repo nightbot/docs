@@ -1,6 +1,6 @@
 ---
 title: "General Setup"
-sidebar_position: 5
+sidebar_position: 2
 ---
 
 ## General Setup Guide for Nightbot

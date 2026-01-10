@@ -52,7 +52,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/social-card.png',
+    image: 'img/logo.png',
     colorMode: {
       respectPrefersColorScheme: true,
     },

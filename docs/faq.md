@@ -1,29 +1,9 @@
 ---
 title: "FAQ"
-sidebar_position: 4
+sidebar_position: 6
 ---
 
-Here are the most common questions we get asked, all on one page. For additional support for specific items use the [Nightbot Forum](https://community.nightdev.com/c/nightbot) or the [Contact Form](https://nightdev.com/contact/) for more private matters.
-
-### Why isn't Nightbot responding on YouTube?
-
-Your stream must be live and public, also Nightbot needs to have been joined via the [control panel](https://nightbot.tv/dashboard).
-
-If Nightbot still isn't responding your channel, it may not be a moderator or is banned from your channel.
-
-Sometimes YouTube can also filter Nightbot's chat from "TopChat," so be sure you are looking at "Live Chat" and not "Top Chat."
-
-If you operate a stream which is live 24/7, YouTube sometimes glitches and does not report your chat to Nightbot as live. As a temporary fix, restarting the stream does fix this issue.
-
-### Why isn't Nightbot responding on Twitch?
-
-Make sure Nightbot is joined to your chat in the control panel.
-
-If you recently changed your Twitch username, be sure to logout and back into the Nightbot control panel. Parting and re-joining the bot via the control panel may also help.
-
-If Nightbot still isn't responding your channel, it may not a moderator or is banned from your channel.
-
-Lastly, sometimes users have accidentally blocked/ignored Nightbot. This causes Nightbot to not be seen by you (but can be seen by others). You can type `/unignore nightbot` in chat to unignore the bot.
+Here are the most common questions we get asked, all on one page. For additional support for specific items use the [NightDev Discord](https://discord.gg/nightdev) or the [Contact Form](https://nightdev.com/contact/) for more private matters.
 
 ### My Playlist was deleted and I can't find it. How do I get it back?
 
@@ -39,4 +19,4 @@ Download and install the [Nightbot App](https://docs.nightbot.tv/app). Upon runn
 
 ### This isn't working and it should be. This should be added to Nightbot!
 
-We are always looking to fix bugs and improve Nightbot, unreported bugs often go unnoticed. Contact us using the [Nightbot forum](https://community.nightdev.com/c/nightbot) or on Twitter at [@nightbotapp](https://twitter.com/nightbotapp). If there is a feature you think should be added, tell us in greater detail on the forum. We're always looking for ways to improve Nightbot.
+We are always looking to fix bugs and improve Nightbot. Reach out via the [NightDev Discord](https://discord.gg/nightdev)

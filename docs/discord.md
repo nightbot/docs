@@ -1,6 +1,6 @@
 ---
 title: "Discord Integration"
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 This a quick guide of how to setup Nightbot for Discord.
@@ -29,4 +29,4 @@ No idea what Discord is? Discord is an all-in-one voice, video, and text chat fo
 
 ---
 
-Find a Bug? Have a suggestion? Let us know on the [Forums](https://community.nightdev.com/c/nightbot) or [@nightbotapp](https://twitter.com/nightbotapp).
+Find a Bug? Have a suggestion? Let us know on the [Discord](https://discord.gg/nightdev).

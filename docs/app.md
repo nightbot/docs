@@ -1,6 +1,6 @@
 ---
 title: "Nightbot App"
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 In order to provide some extra functionality to song requests, we've created a small app for Windows and MacOS. With this app you'll be able to show the current song in your streaming software (such as OBS) and use hotkeys for song requests.

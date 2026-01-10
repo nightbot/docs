@@ -53,4 +53,4 @@ Spam Filters within Nightbot can help deal with users who spam. Offering filters
 
 ---
 
-More in-depth information about the topics here can be found throughout the Nightbot Documentation. Reach out to us on the [forums](https://community.nightdev.com/c/nightbot) for any questions.
+More in-depth information about the topics here can be found throughout the Nightbot Documentation. Reach out to us on the [Discord](https://discord.gg/nightdev) for any questions.

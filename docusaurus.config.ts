@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Nightbot Documentation',
-  tagline: 'The most popular chat bot for Twitch, YouTube, Trovo, and SOOP',
+  tagline: 'The most popular chat bot for Twitch, YouTube, and SOOP',
   favicon: 'img/favicon.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
